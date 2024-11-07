@@ -4,6 +4,7 @@ library(zoo)
 library(vegan)
 library(scales)
 library(devtools)
+library(readr)
 
 npp_url = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Net%20primary%20production%2C%20growth%20and%20standing%20crop%20of%20Macrocystis%20pyrifera/Macrocystis%20pyrifera%20net%20primary%20production%20and%20growth%20with%20SE_20240325.csv"
 npp <- read_csv(url(npp_url))

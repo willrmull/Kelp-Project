@@ -3,6 +3,7 @@ library(ggplot2)
 library(zoo)
 library(vegan)
 library(scales)
+library(readr)
 
 ###Finding the richness of fish species###
 

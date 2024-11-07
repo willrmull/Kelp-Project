@@ -4,6 +4,8 @@ library(zoo)
 library(vegan)
 library(scales)
 library(stringr)
+library(readr)
+
 waves_url <- "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Macrocystis%20pyrifera%20biomass%20and%20environmental%20drivers/kelp_no3_waves_quarterly_long.csv"
 waves <- pred <- read_csv(url(waves_url))
 

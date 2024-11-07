@@ -6,6 +6,7 @@ library(scales)
 library(tidyverse)
 library(reshape2)
 library(zoo)
+library(readr)
 
 pred_url = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/byrnes_foodweb_table1%20(1).csv"
 pred <- read_csv(url(pred_url))

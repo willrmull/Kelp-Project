@@ -10,6 +10,7 @@ library(tibble)
 library(sads)
 library(reshape2)
 library(zoo)
+library(readr)
 
 import_url <- "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Net%20primary%20production%2C%20growth%20and%20standing%20crop%20of%20Macrocystis%20pyrifera/Macrocystis%20pyrifera%20net%20primary%20production%20and%20growth%20with%20SE_20240325.csv"
 import <- read_csv(url(import_url))
