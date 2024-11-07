@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="knb-lter-sbc.108.2"
+  system="https://pasta.edirepository.org"
+  xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+  xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://nis.lternet.edu/schemas/EML/eml-2.2.0/xsd/eml.xsd">
+  <access
+    authSystem="https://pasta.edirepository.org/authentication"
+    order="allowFirst" scope="document"
+      system="https://pasta.edirepository.org">
+    <allow>
+      <principal>uid=SBC,o=EDI,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>uid=lkui,o=EDI,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <alternateIdentifier>knb-lter-sbc.108</alternateIdentifier>
+    <alternateIdentifier
+        system="https://doi.org">doi:10.6073/pasta/66aaaa7d4891e57ec561d53d22baa905</alternateIdentifier><shortName>reef kelp blade loss</shortName>
+    <title>SBC LTER: REEF:  Macrocystis pyrifera blade area and loss in Southern California</title>
+    <creator>
+      <organizationName>Santa Barbara Coastal LTER</organizationName>
+      <address>
+        <deliveryPoint>Marine Science Institute,University of California</deliveryPoint>
+        <city>Santa Barbara</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>93106</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>sbclter@msi.ucsb.edu</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Andrew A</givenName>
+        <surName>Rassweiler</surName>
+      </individualName>
+      <electronicMailAddress>andrew.rassweiler@lifesci.ucsb.edu</electronicMailAddress>
+      <userId
+        directory="http://orcid.org/">https://orcid.org/0000-0002-8760-3888</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Gabriel E</givenName>
+        <surName>Rodriguez</surName>
+      </individualName>
+      <electronicMailAddress>gabriel.rodriguez@lifesci.ucsb.edu</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Shannon</givenName>
+        <surName>Harrer</surName>
+      </individualName>
+      <electronicMailAddress>harrer@msi.ucsb.edu</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Daniel C</givenName>
+        <surName>Reed</surName>
+      </individualName>
+      <electronicMailAddress>dan.reed@lifesci.ucsb.edu</electronicMailAddress>
+      <userId
+          directory="http://orcid.org/">https://orcid.org/0000-0003-3015-8717</userId>
+    </creator>
+    <pubDate>2022-10-10</pubDate>
+    <language>English</language>
+    <abstract>
+      <para>
+  These data describe losses of giant kelp (<emphasis>Macrocystis
+  pyrifera</emphasis>) blade tissue observed in the Santa Barbara
+  Channel (Isla Vista Reef) during the summer of 2012. Data are
+  contained in two tables: 1) a time series of measured change in blade
+  area over time at different depths and locations in the kelp forest,
+  2) modeled estimates of partial blade losses specific to blades on
+  subsurface fronds and blades in the water column and canopy sections
+  of surface reaching fronds.
+</para>
+    </abstract>
+    <keywordSet>
+      <keyword>growth</keyword>
+      <keyword>long term ecological research</keyword>
+      <keyword>LTER</keyword>
+      <keyword>Santa Barbara Coastal</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary v1</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Ecosystem Processes</keyword>
+      <keyword>Kelp Forest</keyword>
+      <keyword>Nearshore Ocean</keyword>
+      <keyword>Reef</keyword>
+      <keywordThesaurus>SBC-LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Isla Vista Reef</keyword>
+      <keywordThesaurus>Santa Barbara Coastal LTER Places</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Marine Plants</keyword>
+      <keywordThesaurus>Global Change Master Directory (GCMD) v6.0.0.0.0</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Fronds</keyword>
+      <keywordThesaurus>NBII Biocomplexity</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>giant kelp</keyword>
+      <keyword>marine algae</keyword>
+      <keywordThesaurus>Ecological Archives</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>giant kelp</keyword>
+      <keyword>LTER</keyword>
+      <keyword>Macrocystis pyrifera</keyword>
+      <keyword>Marine Plants</keyword>
+    </keywordSet>
+    <intellectualRights>
+      <para>
+  This data package is released under the Creative Commons License
+  Attribution 4.0 International (CC BY 4.0, see
+  https://creativecommons.org/licenses/by/4.0/). This license states
+  that consumers ("Data Users" herein) may distribute, adapt,
+  reuse, remix, and build upon this work, as long as they give
+  appropriate credit, provide a link to the license, and indicate if
+  changes were made. If redistributed, a Data User may not apply
+  additional restrictions or technological measures that prevent access.
+</para>
+      <para>
+  The Data User has an ethical obligation to cite the data source
+  appropriately in any publication or product that results from its use,
+  and notify the data contact or creator. Communication, collaboration,
+  or co-authorship (as appropriate) with the creators of this data
+  package is encouraged to prevent duplicate research or publication.
+  The Data User is urged to contact the authors of these data if any
+  questions about methodology or results occur. The Data User should
+  realize that these data may be actively used by others for ongoing
+  research and that coordination may be necessary to prevent duplication
+  or inappropriate use. The Data User should realize that
+  misinterpretation may occur if data are used outside of the context of
+  the original study. The Data User should be aware that data are
+  updated periodically and it is the responsibility of the Data User to
+  check for new versions of the data.
+</para>
+      <para>
+  While substantial efforts are made to ensure the accuracy of data and
+  associated documentation, complete accuracy of data sets cannot be
+  guaranteed. This data package (with its components) is made available
+  “as is” and with no warranty of accuracy or fitness for use. The
+  creators of this data package and the repository where these data were
+  obtained shall not be liable for any damages resulting from
+  misinterpretation, use or misuse of the data package or its
+  components.
+</para>
+    </intellectualRights>
+    <distribution>
+      <online>
+        <url
+      function="information">https://sbclter.msi.ucsb.edu/</url>
+      </online>
+    </distribution>
+    <distribution
+      id="10.6073/pasta/66aaaa7d4891e57ec561d53d22baa905" scope="system"
+          system="https://pasta.edirepository.org"><online><url
+        function="information">https://doi.org/10.6073/pasta/66aaaa7d4891e57ec561d53d22baa905</url></online></distribution><coverage>
+      <geographicCoverage>
+        <geographicDescription>IVEE: Isla Vista (IV) Reef is located on the Santa Barbara Channel near the University of California Santa Barbara, CA. Depth range is from -8.2 to -8.8 meters.</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-119.85755</westBoundingCoordinate>
+          <eastBoundingCoordinate>-119.85755</eastBoundingCoordinate>
+          <northBoundingCoordinate>34.402783</northBoundingCoordinate>
+          <southBoundingCoordinate>34.402783</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2012-07-03</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2012-11-01</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <contact>
+      <positionName>Information Manager, Santa Barbara Coastal LTER</positionName>
+      <address
+        scope="document">
+        <deliveryPoint>Marine Science Institute</deliveryPoint>
+        <deliveryPoint>University of California</deliveryPoint>
+        <city>Santa Barbara</city>
+        <administrativeArea>California</administrativeArea>
+        <postalCode>93106-6150</postalCode>
+        <country>United States</country>
+      </address>
+      <phone
+        phonetype="voice">805 893 2071</phone>
+      <electronicMailAddress>sbclter@msi.ucsb.edu</electronicMailAddress>
+      <onlineUrl>https://sbclter.msi.ucsb.edu/</onlineUrl>
+    </contact>
+    
+    <publisher><organizationName>Environmental Data Initiative</organizationName><electronicMailAddress>info@edirepository.org</electronicMailAddress><onlineUrl>https://edirepository.org</onlineUrl><userId
+                directory="https://ror.org">0330j0z60</userId></publisher><pubPlace>Environmental Data Initiative</pubPlace><methods>
+      <methodStep>
+        <description>
+          <para>
+  The giant kelp, <emphasis>Macrocystis pyrifera</emphasis>, supports
+  one of the most productive ecosystems on Earth and this high
+  productivity is driven by rapid growth and frequent turnover of
+  standing biomass. Losses of entire individuals, entire fronds and of
+  dissolved exudates have been studied at length by the Santa Barbara
+  Coastal Long Term Ecological Research program. However, before an
+  <emphasis>M. pyrifera</emphasis> frond or individual is detached, a
+  portion of the blade biomass on the frond is lost and this material
+  may constitute a significant proportion of giant kelp’s productivity.
+  This study uses a combination of field measurements and mathematical
+  modeling to estimate daily loss rates of blade tissue found on intact
+  kelp fronds that compose the standing biomass.
+</para>
+        </description>
+        <protocol>
+          <title>Estimates of kelp blade erosion rates</title>
+          <creator>
+            <individualName>
+              <surName>Reed</surName>
+            </individualName>
+          </creator>
+          <distribution>
+            <online>
+              <url
+        function="download">https://sbclter.msi.ucsb.edu/external/Reef/Protocols/Kelp_NPP/Kelp_blade_loss_protocol_20170901.pdf</url>
+            </online>
+          </distribution>
+        </protocol>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Santa Barbara Coastal Long Term Ecological Research Project</title>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Robert</givenName>
+          <surName>Miller</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Marine Science Institute</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-6150</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 6174</phone>
+        <electronicMailAddress>miller@msi.ucsb.edu</electronicMailAddress>
+        <role>Principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Dan</givenName>
+          <surName>Reed</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Marine Science Institute</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-6150</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 8363</phone>
+        <electronicMailAddress>dan.reed@lifesci.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Adrian</givenName>
+          <surName>Stier</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Department of Ecology, Evolution and Marine Biology</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-9260</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 5467</phone>
+        <electronicMailAddress>adrian.stier@lifesci.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Gretchen</givenName>
+          <surName>Hoffman</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Department of Ecology, Evolution and Marine Biology</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-9620</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 6175</phone>
+        <electronicMailAddress>hofmann@lifesci.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>David</givenName>
+          <surName>Siegel</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Institute for Computational Earth System Science</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-3060</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+      phonetype="voice">805 893 4547</phone>
+        <electronicMailAddress>davey@icess.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <abstract>
+        <section>
+          <para>The Santa Barbara Coastal LTER (SBC LTER) is an interdisciplinary research and education program
+established in April 2000 with the goal of developing a predictive understanding of how environmental
+drivers interact with terrestrial and oceanic processes to alter material flows and influence the ecology of
+coastal ecosystems. SBC LTER's principal study domain is the semi-arid coast and nearshore waters of
+the Santa Barbara Channel in southern California, and its diverse and productive marine forests of giant
+kelp (<emphasis>Macrocystis pyrifera</emphasis>) serve as the focal study ecosystem. Analyses of our long-term data have
+identified many of the environmental drivers and ecological processes underlying the production and
+community dynamics of kelp forests. The research proposed to address this question is integrated in a conceptual framework
+that focuses on the causes and ecological consequences of the dynamics of a relatively short-lived
+foundation species in a setting of long-term climate change and human use.</para>
+        </section>
+      </abstract>
+      <funding>
+        <section>
+          <para>NSF Award OCE-9982105, OCE-0620276, OCE-1232779, OCE-1831937</para>
+        </section>
+      </funding>
+    </project>
+    <dataTable
+      id="dd9d8810cbe8ec4a0f3d458411ec9838" scope="document"
+          system="https://pasta.edirepository.org">
+      <entityName>M. pyrifera blade area change over time</entityName>
+      <entityDescription>Kelp blade area change over time </entityDescription>
+      <physical>
+        <objectName>Kelp_Blade_Area_20170901.csv</objectName>
+        <size
+          unit="byte">62356</size>
+        <authentication
+              method="MD5">7205d9e4022083247870a95d354f662c</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+      function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/108/2/dd9d8810cbe8ec4a0f3d458411ec9838</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeLabel>date</attributeLabel>
+          <attributeDefinition>Sampling date formatted as MM/DD/YYYY</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>transect</attributeName>
+          <attributeLabel>Location on transect</attributeLabel>
+          <attributeDefinition>Location in the kelp bed, either interior or edge</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>edge</code>
+                    <definition>plant is located on the side of the transect nearest the outer edge of the kelp bed</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>interior</code>
+                    <definition>plant is located on the side of the transect nearest the inside the kelp bed</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>tag</attributeName>
+          <attributeLabel>Tag ID</attributeLabel>
+          <attributeDefinition>Unique identifier assigned to each sampled kelp blade</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>any text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>frondlength</attributeName>
+          <attributeLabel>Frond length</attributeLabel>
+          <attributeDefinition>Total length of sample frond sample blade is on, in meters (frond = stipe plus all blades)</attributeDefinition>
+          <storageType>decimal</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <precision>0.01</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>bladeposition</attributeName>
+          <attributeLabel>Blade position</attributeLabel>
+          <attributeDefinition>Categorical assignment (b, m, t) identifying the vertical position of a blade.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>b</code>
+                    <definition>Blade was located near the bottom at 6 m depth</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>m</code>
+                    <definition>Blade was located mid water at 3 m depth</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>t</code>
+                    <definition>Blade was located in the kelp canopy at 0 m depth</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>bladearea</attributeName>
+          <attributeLabel>Blade area</attributeLabel>
+          <attributeDefinition>Area of sample blade calculated from length and width, and assuming elliptical shape</attributeDefinition>
+          <storageType>decimal</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>centimeterSquared</customUnit>
+              </unit>
+              <precision>0.01</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>time_days</attributeName>
+          <attributeLabel>Elapsed time</attributeLabel>
+          <attributeDefinition>Number of days since first sample was taken</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>nominalDay</standardUnit>
+              </unit>
+              <precision>1</precision>
+              <numericDomain>
+                <numberType>integer</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PercentofMaxA</attributeName>
+          <attributeLabel>Percent area</attributeLabel>
+          <attributeDefinition>Percent of blade tissue present relative to the maximum blade area observed over the entire sampling period (Current blade area / maximum blade area observed ) x 100</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>1418</numberOfRecords>
+    </dataTable>
+    <dataTable
+      id="6f54c756a0b77c4857f41378004e2170" scope="document"
+          system="https://pasta.edirepository.org">
+      <entityName>M. pyrifera blade loss estimated by models</entityName>
+      <entityDescription>Subsurface fronds and suface reaching fronds partial losses estimated using models</entityDescription>
+      <physical>
+        <objectName>Kelp_blade_loss_rates_20170901.csv</objectName>
+        <size
+          unit="byte">125</size>
+        <authentication
+              method="MD5">8ab7698a1d66c738ac5fadd00cd2c229</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+        function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/108/2/6f54c756a0b77c4857f41378004e2170</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Section</attributeName>
+          <attributeLabel>section of kelp in water column</attributeLabel>
+          <attributeDefinition>Blade loss rates were calculated separately for three classes of blades, chosen to match the classes of kelp frond material used to calculate foliar standing crop</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Canopy</code>
+                    <definition>The portion of a surface reaching frond that forms a floating canopy at the sea surface</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Subsurface</code>
+                    <definition>A frond that does not extend to the sea surface (typically a 	young, growing frond).</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Water column</code>
+                    <definition>The underwater portion of a frond that extends 	throughout the water column from the holdfast to the sea surface.</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Daily loss rate</attributeName>
+          <attributeLabel>daily loss rate</attributeLabel>
+          <attributeDefinition>Daily particulate loss rate from senescing blades (i.e., blades that had stopped growing and had attained their maximum area) estimated by simulating decreases in blade area for a population of 500 blades over the course of 10,000 days. </attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>standard deviation</attributeName>
+          <attributeLabel>Standard deviation for daily loss rate</attributeLabel>
+          <attributeDefinition>Uncertainty in estimates of daily loss rate from senescing blades based on the distribution of 10,000 iterations of model simulations</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <precision>1e-06</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>3</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList
+        xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+        xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.1"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <unit
+          abbreviation="cm2" id="centimeterSquared"
+          multiplierToSI=".0001" name="centimeterSquared"
+          parentSI="meterSquared" unitType="area"/>
+        <unit
+          id="dimensionless" name="dimensionless"
+          unitType="dimensionless">
+          <description>a designation asserting the absence of an associated unit</description>
+        </unit>
+        <unit
+          abbreviation="m" id="meter" multiplierToSI="1" name="meter"
+          unitType="length">
+          <description>SI unit of length</description>
+        </unit>
+        <unit
+          id="nominalDay" multiplierToSI="86400" name="nominalDay"
+          parentSI="second" unitType="time">
+          <description>one day excluding leap seconds, 86400 seconds</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

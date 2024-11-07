@@ -1,0 +1,10 @@
+Manifest file for knb-lter-sbc.112.9.zip created on Wed Oct 30 17:41:30 UTC 2024
+Macrocystis pyrifera net primary production and growth with SE_20240325.csv (42832 bytes)
+Macrocystis pyrifera standing crop plant density and loss rates with SE_20240325.csv (301472 bytes)
+Census of fronds on marked plants_20240325.csv (253717 bytes)
+Macrocystis pyrifera blade water carbon and nitrogen content_20240325.csv (58149 bytes)
+Regression parameters to estimate biomass and production from frond density_20240325.csv (12205 bytes)
+Frond_Density_All_Years_pub_20240325.csv (3981240 bytes)
+knb-lter-sbc.112.9.xml (139634 bytes)
+knb-lter-sbc.112.9.txt (77506 bytes)
+knb-lter-sbc.112.9.report.xml (134454 bytes)

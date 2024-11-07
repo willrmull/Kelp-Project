@@ -1,0 +1,36 @@
+"scientific_name","intercept","slope","SE_slope","rsquared","pvalue","samplesize"
+"Acrosorium ciliolatum",24.68856,9.39793,2.32991,0.56,0.0014,14
+"Bossiella orbigniana",2.32422,4.65156,2.91893,0.14,0.1306,17
+"Calliarthron cheilosporioides",3.24341,4.88142,3.37737,0.23,0.1916,8
+"Callophyllis flabellulata",12.73384,-2.10381,5.40264,0.07,0.7345,3
+"Chondracanthus corymbiferus; Chondracanthus exasperatus",-0.66628,1.6364,0.15914,0.77,1e-04,33
+"Cladophora graminea",-0.27549,7.9444,2.26548,0.71,0.0172,6
+"Codium fragile",1.38003,-0.0701,0.15673,0.06,0.685,4
+"Colpomenia peregrina",19.02934,4.65415,1.21752,0.94,0.1629,2
+"Corallina officinalis",27.44764,6.76327,0.64914,0.73,1e-04,41
+"Desmarestia ligulata",89.95611,0.51806,0.89712,0.02,0.5717,17
+"Dictyota binghamiae; Dictyota flabellata; Dictyota coriacea",-5.91864,6.29539,0.50068,0.92,1e-04,14
+"Ectocarpaceae spp.",9.38606,8.89317,3.38846,0.2,0.0141,28
+"Egregia menziesii",-7.65775,6.50951,1.90897,0.66,0.0143,7
+"Gracilaria spp.",-7.46758,3.54249,0.3629,0.91,1e-04,11
+"Gymnogongrus spp.",0.9587,1.04001,0.76516,0.24,0.2229,7
+"Halymenia spp.; Schizymenia pacifica",0.26848,2.12367,0.74941,0.57,0.0298,7
+"Hildenbrandia spp.",-0.11159,1.62165,0.24045,0.81,1e-04,12
+"Laminaria farlowii",0.17646,2.61966,0.99423,0.32,0.0188,16
+"Laurencia spp.",5.13525,-0.44382,0.47788,0.09,0.3773,10
+"Macrocystis pyrifera",231.62781,1.7289,0.10327,0.82,1e-04,63
+"Neoptilota spp.; Ptilota spp.; Rhodoptilum spp.",-0.25341,3.36928,5.22541,0.29,0.6354,2
+"Nienburgia andersoniana",0.17668,1.83847,1.59687,0.21,0.3017,6
+"Polyneura latissima",-14.10336,3.07269,0.24221,0.96,1e-04,7
+"Prionitis linearis",4.08937,0.29551,0.09227,0.91,0.1927,2
+"Pterygophora californica",29.31219,2.11886,0.32777,0.46,1e-04,50
+"Rhodymenia californica",14.0022,1.22576,0.35732,0.25,0.0015,37
+"Sargassum horneri",15.48861,-6.63232,16.5242,0.14,0.757,2
+"Sargassum muticum",-48.18976,66.2341,9.28082,0.94,0.0057,4
+"Scinaia confusa",3.46063,0.12854,0.48387,0.01,0.7982,8
+"Stephanocystis osmundacea",22.10965,3.30575,0.55149,0.41,1e-04,52
+"Taonia lennebackerae",4.01176,2.99568,0.71479,0.59,0.0013,13
+"Unidentifiable juvenile kelp ",-0.45978,9.01317,3.98519,0.51,0.0732,6
+"Unidentified Erect Coralline spp.",2.86102,5.05572,4.20034,0.42,0.3519,3
+"crustose coralline algae spp.",1.35571,3.02368,0.27703,0.68,1e-04,58
+"small Ceramiaceae spp.",15.73289,5.54816,0.71704,0.57,1e-04,46

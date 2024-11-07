@@ -1,0 +1,6 @@
+Manifest file for knb-lter-sbc.183.1.zip created on Wed Oct 30 17:42:07 UTC 2024
+SBS_Understory_NPP_All_Year_season_20240823.csv (12771565 bytes)
+SBS_Understory_Summer_Bmass_Annual_NPP_Relationships_20240823.csv (2414 bytes)
+knb-lter-sbc.183.1.xml (65840 bytes)
+knb-lter-sbc.183.1.txt (32803 bytes)
+knb-lter-sbc.183.1.report.xml (52218 bytes)

@@ -1,0 +1,2460 @@
+
+   
+      
+         uid=SBC,o=EDI,dc=ecoinformatics,dc=org
+         all
+      
+      
+         uid=lkui,o=EDI,dc=ecoinformatics,dc=org
+         all
+      
+      
+         public
+         read
+      
+   
+   
+      doi:10.6073/pasta/3077dbbdf9e57b33661ce5cbd20e4eb4Giant kelp NPP
+      SBC LTER: REEF: Net primary production, growth and standing crop of Macrocystis pyrifera in Southern California
+      
+         Andrew A Rassweiler
+         			Marine Science Institute University of California
+			Santa Barbara, CA 93106-6150  US
+         805-893-7823
+         rassweiler@bio.fsu.edu
+         https://orcid.org/0000-0002-8760-3888
+      
+      
+         Shannon Harrer
+         			Marine Science Institute University of California
+			Santa Barbara, CA 93106-6150  US
+         harrer@msi.ucsb.edu
+      
+      
+         Daniel C Reed
+         			Marine Science Institute University of California
+			Santa Barbara, CA 93106-6150  US
+         805-893-8363
+         danreed@ucsb.edu
+         https://orcid.org/0000-0003-3015-8717
+      
+      
+         Clint J Nelson
+         			Marine Science Institute University of California
+			Santa Barbara, CA 93106-6150  US
+         805-893-7295
+         scubaclint@ucsb.edu
+      
+      
+         Robert J Miller
+         			Marine Science Institute University of California
+			Santa Barbara, CA 93106-6150  US
+         805-893-6174
+         rjmiller@ucsb.edu
+         https://orcid.org/0000-0002-8350-3759
+      
+      
+         Santa Barbara Coastal LTER
+         			Marine Science Institute University of California
+			Santa Barbara, CA 93106  USA
+         sbclter@msi.ucsb.edu
+         publisher, curator
+      
+      2024-03-25
+      English
+      
+         
+            
+      The giant kelp Macrocystis pyrifera forms
+      subtidal forests on shallow reefs in temperate regions of the
+      world. It is one of the fastest-growing multicellular autotrophs
+      on Earth and its high productivity supports diverse marine food
+      webs. In 2008, we published a method for estimating biomass and
+      net primary production (NPP) of giant kelp along with five years
+      of data, to provide a more integrated measure of NPP than those
+      yielded by previous methods. Our method combines monthly field
+      measurements of standing crop and loss rates with a model of kelp
+      biomass dynamics to estimate instantaneous mass-specific growth
+      rates and NPP for each season of each year. We have since improved
+      our approach to account for several previously unresolved sources
+      of biomass loss. These improvements have led to a near doubling of
+      our prior estimates of growth and NPP. At our site with the most
+      persistent stand of giant kelp, NPP averages ~5.2 kg dry mass
+      m-2 y-1 and
+      results from the rapid growth (~3.5% per day) of a relatively
+      small standing biomass (~ 0.4 kg dry mass
+      m-2 on average) that turns over ~ 12
+      times annually. Here we provide revised estimates of seasonal
+      biomass, growth and NPP for the five years covered by our previous
+      publication (2002-2006), along with an additional data collect
+      since then (2007-present). We also present updated relationships
+      for predicting giant kelp biomass and NPP from much more easily
+      obtained measurements of frond density. These data can be used to
+      understand the mechanisms that drive variation in giant kelp NPP
+      at a wide range of temporal scales.
+    
+         
+      
+      
+         populations
+         primary production
+         LTER Core Research Areas
+      
+      
+         algae
+         biomass
+         carbon
+         growth
+         long term ecological research
+         LTER
+         mass
+         net primary production
+         populations
+         productivity
+         Santa Barbara Coastal
+         seasonality
+         standing crop
+         LTER Controlled Vocabulary v1
+      
+      
+         Biogeochemistry
+         Community Structure
+         Ecosystem Processes
+         Kelp Forest
+         Nearshore Ocean
+         populations
+         Reef
+         SBC-LTER Controlled Vocabulary
+      
+      
+         Arroyo Burro Reef
+         Arroyo Quemado Reef
+         Mohawk Reef
+         Santa Barbara Coastal LTER Places
+      
+      
+         algae
+         Biomass
+         Carbon
+         Dominant Species
+         Marine Plants
+         Global Change Master Directory (GCMD) v6.0.0.0.0
+      
+      
+         Biomass
+         Carbon
+         Knowledge Network for Biocomplexity
+      
+      
+         Biomass
+         Carbon
+         Fronds
+         Mass (property)
+         Primary production
+         NBII Biocomplexity
+      
+      
+         giant kelp
+         growth rate
+         marine algae
+         net primary production
+         standing crop
+         Ecological Archives
+      
+      
+         biomass
+         giant kelp
+         growth rate
+         LTER
+         Macrocystis pyrifera
+         Marine Plants
+         net primary production
+         none
+      
+      
+         
+    This data package is released under the Creative Commons License
+    Attribution 4.0 International (CC BY 4.0, see
+    https://creativecommons.org/licenses/by/4.0/). This license states
+    that consumers ("Data Users" herein) may distribute,
+    adapt, reuse, remix, and build upon this work, as long as they give
+    appropriate credit, provide a link to the license, and indicate if
+    changes were made. If redistributed, a Data User may not apply
+    additional restrictions or technological measures that prevent
+    access.
+  
+         
+    The Data User has an ethical obligation to cite the data source
+    appropriately in any publication or product that results from its
+    use, and notify the data contact or creator. Communication,
+    collaboration, or co-authorship (as appropriate) with the creators
+    of this data package is encouraged to prevent duplicate research or
+    publication. The Data User is urged to contact the authors of these
+    data if any questions about methodology or results occur. The Data
+    User should realize that these data may be actively used by others
+    for ongoing research and that coordination may be necessary to
+    prevent duplication or inappropriate use. The Data User should
+    realize that misinterpretation may occur if data are used outside of
+    the context of the original study. The Data User should be aware
+    that data are updated periodically and it is the responsibility of
+    the Data User to check for new versions of the data.
+  
+         
+    While substantial efforts are made to ensure the accuracy of data
+    and associated documentation, complete accuracy of data sets cannot
+    be guaranteed. This data package (with its components) is made
+    available “as is” and with no warranty of accuracy or fitness for
+    use. The creators of this data package and the repository where
+    these data were obtained shall not be liable for any damages
+    resulting from misinterpretation, use or misuse of the data package
+    or its components.
+  
+      
+      
+         
+            https://sbclter.msi.ucsb.edu/
+         
+      
+      https://doi.org/10.6073/pasta/3077dbbdf9e57b33661ce5cbd20e4eb4
+         
+            ABUR: Arroyo Burro Reef is located on the Santa Barbara Channel near the mouth of Arroyo Burro Creek and Beach. Depth ranges from 5.4 to 7 meters.
+            
+               -119.7445915
+               -119.7445915
+               34.400275
+               34.400275
+            
+         
+         
+            AQUE: Arroyo Quemado Reef: Arroyo Quemado Reef depth range from 5.4 m to 10.7 m. Reference on Land is close to US101/Arroyo Quemada Ln.
+            
+               -120.11905
+               -120.11905
+               34.46774988
+               34.46774988
+            
+         
+         
+            MOHK: Mohawk Reef: Mohawk Reef depth ranges from 4.5m to 6.0 m. Reference on land is Mohawk Rd / Edgewater Way.
+            
+               -119.72957
+               -119.72957
+               34.3940708
+               34.3940708
+            
+         
+         
+            
+               
+                  2002-04-04
+               
+               
+                  2024-03-18
+               
+            
+         
+      
+      
+         Santa Barbara Coastal LTER
+         			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+         sbclter@msi.ucsb.edu
+         https://sbclter.msi.ucsb.edu/
+         https://ror.org/05hnkta08
+      
+      
+         Environmental Data Initiative
+         info@edirepository.org
+         https://edirepository.org
+         0330j0z60
+      
+      Environmental Data Initiative
+      
+         
+            
+               
+                  
+      The method for Macrocystis pyrifera net
+      primary production, growth and standing crop can be seen in
+      protocol below.
+    
+               
+            
+            
+               Net primary production, growth and standing crop of Macrocystis pyrifera in Southern California
+               
+                   Reed
+               
+               
+                  
+                     https://sbclter.msi.ucsb.edu/external/Reef/Protocols/Kelp_NPP/KelpNPP_20180522.pdf
+                  
+               
+            
+         
+      
+      
+         Santa Barbara Coastal Long Term Ecological Research Project
+         
+            Dr. Robert Miller
+            			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+            miller@msi.ucsb.edu
+            Principal Investigator
+         
+         
+            Dr. Dan Reed
+            			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+            dan.reed@lifesci.ucsb.edu
+            Co-principal Investigator
+         
+         
+            Dr. Adrian Stier
+            			Department of Ecology, Evolution and Marine Biology
+			University of California
+			Santa Barbara, California 93106-9260  United States
+            adrian.stier@lifesci.ucsb.edu
+            Co-principal Investigator
+         
+         
+            Dr. Gretchen Hoffman
+            			Department of Ecology, Evolution and Marine Biology
+			University of California
+			Santa Barbara, California 93106-9620  United States
+            hofmann@lifesci.ucsb.edu
+            Co-principal Investigator
+         
+         
+            Dr. David Siegel
+            			Institute for Computational Earth System Science
+			University of California
+			Santa Barbara, California 93106-3060  United States
+            davey@icess.ucsb.edu
+            Co-principal Investigator
+         
+         
+            
+               The Santa Barbara Coastal LTER (SBC LTER) is an interdisciplinary research and education program
+established in April 2000 with the goal of developing a predictive understanding of how environmental
+drivers interact with terrestrial and oceanic processes to alter material flows and influence the ecology of
+coastal ecosystems. SBC LTER's principal study domain is the semi-arid coast and nearshore waters of
+the Santa Barbara Channel in southern California, and its diverse and productive marine forests of giant
+kelp (Macrocystis pyrifera) serve as the focal study ecosystem. Analyses of our long-term data have
+identified many of the environmental drivers and ecological processes underlying the production and
+community dynamics of kelp forests. The research proposed to address this question is integrated in a conceptual framework
+that focuses on the causes and ecological consequences of the dynamics of a relatively short-lived
+foundation species in a setting of long-term climate change and human use.
+            
+         
+         
+            SBC LTER is supported by the National Science Foundation.
+         
+         
+            National Science Foundation
+            https://dx.doi.org/10.13039/100000001
+            1831937
+            LTER: Environmental drivers and ecological consequences of kelp forest dynamics (SBV IV)
+            https://www.nsf.gov/awardsearch/showAward?AWD_ID=1831937
+         
+         
+            National Science Foundation
+            https://dx.doi.org/10.13039/100000001
+            1232779
+            LTER: Land/Ocean Interactions and the Dynamics of Kelp Forest Ecosystems (SBC III)
+            https://www.nsf.gov/awardsearch/showAward?AWD_ID=1232779
+         
+         
+            National Science Foundation
+            https://dx.doi.org/10.13039/100000001
+            0620276
+            LTER: Land/Ocean Interactions and the Dynamics of Kelp Forest Communities
+            https://www.nsf.gov/awardsearch/showAward?AWD_ID=0620276
+         
+         
+            National Science Foundation
+            https://dx.doi.org/10.13039/100000001
+            9982105
+            LTER: Land/Ocean Interactions and the Dynamics of Kelp Forest Ecosystems
+            https://www.nsf.gov/awardsearch/showAward?AWD_ID=9982105
+         
+      
+      
+         Macrocystis pyrifera net primary production and growth with SE
+         Giant kelp net primary production and growth
+         
+            Macrocystis pyrifera net primary production and growth with SE_20240325.csv
+            42832
+            b57c6416bb8e2e19baad781b78c03db2
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     no
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/112/9/6f24a9026ff356773b93d16390f998b1
+               
+            
+         
+         
+            
+               Site
+               Site
+               The name of the kelp forest sampled, ABUR = Arroyo Burro, AQUE = Arroyo Quemado, MOHK = Mohawk Reef.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Year
+               Year
+               Sampling year
+               integer
+               
+                  
+                     YYYY
+                     1
+                     
+                  
+               
+            
+            
+               Season
+               Season
+               Season (winter, spring, summer and autumn as defined by the winter solstice, spring equinox, summer solstice and autumnal equinox) in which the site is sampled.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               NPP_dry
+               NPP dry
+               The daily production of M. pyrifera dry mass (kg m-2 d-1) for each season of each year. This variable is calculated by integrating the instantaneous rate of production during each period and dividing by the number of days. Production for all days in each season is averaged.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               NPP_carbon
+               NPP carbon
+               The daily production of M. pyrifera carbon mass (kg m-2 d-1) in each season of each year. This variable is calculated by integrating the instantaneous rate of production during each period and dividing by the number of days. Production for all days in each season is averaged.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               NPP_nitrogen
+               NPP nitrogen
+               The daily production of M. pyrifera nitrogen mass (kg m-2 d-1) in each season of each year. This variable is calculated by integrating the instantaneous rate of production during each period and dividing by the number of days. Production for all days in each season is averaged.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               Growth_rate_dry
+               Growth rate dry
+               The instantaneous growth rate of M. pyrifera dry mass (d-1) for each season of each year. This variable is calculated as the growth rate necessary to explain the observed change in biomass during each period, given the initial biomass and the independently measured loss rates. Growth rates for all days in each season are averaged.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Growth_rate_carbon
+               Growth rate carbon
+               The instantaneous growth rate of M. pyrifera carbon mass (d-1) for each season of each year. This variable is calculated as the rate necessary to explain the observed change in biomass during each period, given the initial biomass and the independently measured loss rates. Growth rates for all days in each season are averaged
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Growth_rate_nitrogen
+               Growth rate nitrogen
+               The instantaneous growth rate of M. pyrifera nitrogen mass (d-1) for each season of each year. This variable is calculated as the growth rate necessary to explain the observed change in biomass during each period, given the initial biomass and the independently measured loss rates. Growth rates for all days in each season are averaged.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_NPP_dry
+               SE NPP dry
+               The standard error of NPP_dry. This error is produced using Monte Carlo methods. It incorporates errors in our estimates of biomass, plant loss,frond loss, cut loss, blade loss and dissolved loss rates.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_NPP_carbon
+               SE NPP carbon
+               The standard error of NPP_carbon. This error is produced using Monte Carlo methods. It incorporates errors in our estimates of biomass, plant loss, frond loss, cut loss, blade loss and dissolved loss rates.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_NPP_nitrogen
+               SE NPP nitrogen
+               The standard error of NPP_nitrogen. This error is produced using Monte Carlo methods. It incorporates errors in our estimates of biomass, plant loss, frond loss, cut loss, blade loss and dissolved loss rates.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_growth_rate_dry
+               SE growth rate dry
+               The standard error of Growth_rate_dry. These data are produced using Monte Carlo methods. The error in our estimate of growth incorporates errors in our calculations of biomass, plant loss, frond loss, cut loss, blade loss and dissolved loss rates.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_growth_rate_carbon
+               SE growth rate carbon
+               The standard error of Growth_rate_carbon. These data are produced using Monte Carlo methods. The error in our estimate of growth incorporates errors in our calculations of biomass, plant loss, frond loss, cut loss, blade loss and dissolved loss rates.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_growth_rate_nitrogen
+               SE growth rate nitrogen
+               The standard error of Growth_rate_nitrogen. These data are produced using Monte Carlo methods. The error in our estimate of growth incorporates errors in our calculations of biomass, plant loss, frond loss, cut loss, blade loss and dissolved loss rates.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+         
+         258
+      
+      
+         Macrocystis pyrifera standing crop, plant density, and loss rates with SE
+         Giant kelp standing crop, plant density, and loss rates
+         
+            Macrocystis pyrifera standing crop plant density and loss rates with SE_20240325.csv
+            301472
+            18d5f1f263ac6152ed111b1f29256d5d
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     no
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/112/9/62685a4fb61873c1843433a3364fd08a
+               
+            
+         
+         
+            
+               Site
+               Site
+               The name of the kelp forest sampled, ABUR = Arroyo Burro, AQUE = Arroyo Quemado, MOHK = Mohawk Reef.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Date
+               Date
+               Sampling date
+               dateTime
+               
+                  
+                     YYYY-MM-DD
+                     1
+                     
+                  
+               
+            
+            
+               FSC_dry
+               FSC dry
+               The dry mass of the foliar standing crop of M. pyrifera (kg m-2, excluding sporophylls and holdfast). These data are obtained by calculating the dry mass of each plant, measuring standing crop, and dividing the total dry mass of all plants in the plot by the area of the plot. Plants without at least one frond longer than 1m are excluded.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/KiloGM-PER-M2
+               
+            
+            
+               FSC_carbon
+               FSC carbon
+               The carbon mass of the foliar standing crop of M. pyrifera (kg m-2, excluding sporophylls and holdfast). These data are obtained by calculating the carbon mass of each plant, measuring standing crop, and dividing the total carbon mass of all plants in the plot by the area of the plot. Plants without at least one frond longer than 1m are excluded.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/KiloGM-PER-M2
+               
+            
+            
+               FSC_nitrogen
+               FSC nitrogen
+               The nitrogen mass of the foliar standing crop of M. pyrifera (kg m-2, excluding sporophylls and holdfast). These data are obtained by calculating the nitrogen mass of each plant, measuring standing crop, and dividing the total nitrogen mass of all plants in the plot by the area of the plot. Plants without at least one frond longer than 1m are excluded.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/KiloGM-PER-M2
+               
+            
+            
+               FSC_fraction_canopy
+               FSC fraction canopy
+               The fraction of total foliar standing crop observed in the canopy section. This fraction is obtained by calculating the subsurface, water column and canopy mass of each plant, measuring standing crop, and dividing the canopy mass by the total (canopy mass + water column mass + subsurface mass).
+               float
+               
+                  
+                     
+                        dimensionless
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/UNITLESS
+               
+            
+            
+               Frond density
+               Frond density
+               The density of M. pyrifera fronds longer than 1m.
+               float
+               
+                  
+                     
+                        numberPerMeterSquared
+                     
+                     0.001
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM-PER-M2
+               
+            
+            
+               Plant_density
+               Plant density
+               The density of M. pyrifera plants (number m-2). Plants without at least one frond longer than 1m are excluded.
+               float
+               
+                  
+                     
+                        numberPerMeterSquared
+                     
+                     0.001
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM-PER-M2
+               
+            
+            
+               Surface_Irradiance
+               Surface Irradiance
+               Mean daily instantaneous irradiance (µmol m-2 s-1) collected by PAR irradiance loggers. This mean is based on each 24 hour day over the course of the sampling period.
+               float
+               
+                  
+                     
+                        micromolePerMeterSquaredPerSecond
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/MicroMOL-PER-M2-SEC
+               
+            
+            
+               Bottom_Irradiance
+               Bottom Irradiance
+               Mean daily instantaneous irradiance (µmol m-2 s-1) collected by PAR irradiance loggers mounted on the seafloor. This mean is based on each 24 hour day over the course of the sampling period.
+               float
+               
+                  
+                     
+                        micromolePerMeterSquaredPerSecond
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/MicroMOL-PER-M2-SEC
+               
+            
+            
+               Subsurface_Irradiance
+               Subsurface Irradiance
+               Mean daily instantaneous irradiance (µmol m-2 s-1) calculated for the water column. Subsurface irradiance is calculated by integrating average surface and bottom irradiance over the water column depth (bottom irradiance is collected by mounted sensors on the seafloor at Mohawk and Arroyo Quemado). This mean is based on each 24 hour day over the course of the sampling period.
+               float
+               
+                  
+                     
+                        micromolePerMeterSquaredPerSecond
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/MicroMOL-PER-M2-SEC
+               
+            
+            
+               Plant_loss_rate
+               Plant loss rate
+               The loss rate of M. pyrifera plants during the sampling interval (fraction FSC lost as plants d-1). These data are based on losses of approximately 15 tagged plants.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Frond_loss_rate
+               Frond loss rate
+               The mean loss rate of M. pyrifera fronds during the sampling interval (fraction of FSC lost as fronds d-1). This value is based on the mean proportional frond loss averaged among tagged plants that survived to the end of the sampling interval; losses of fronds on plants that did not survive to the end of the sampling interval are accounted for in the plant loss rate.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Cut_frond_loss_rate
+               Cut frond loss rate
+               The loss rate of M. pyrifera tissue cut by boat propellers during the sampling interval (fraction of FSC lost as cut fronds d-1).
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Blade_loss_rate
+               Blade loss rate
+               The loss rate of M. pyrifera blade tissue during the sample interval (fraction of FSC lost as blades d-1).
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Dissolved_loss_rate
+               Dissolved loss rate
+               The loss rate of dissolved organic matter from M. pyrifera blades and stipes during the sampling interval (fraction of FSC lost as dissolved matter d-1).
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               Carbon_lost_as_plants
+               Carbon lost as plants
+               The rate of carbon mass lost in the form of plants (kg m-2 d-1). These data are obtained by calculating the total carbon mass of plants lost for the period and dividing by the number of days elapsed.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               Carbon_lost_as_fronds
+               Carbon lost as fronds
+               The rate of carbon mass lost in the form of fronds (kg m-2 d-1). These data are obtained by calculating the total carbon mass of fronds lost for the period and dividing by the number of days elapsed.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               Carbon_lost_as_cut_fronds
+               Carbon lost as cut fronds
+               The rate of carbon mass lost in the form of fronds cut by a propeller near the surface (kg m-2 d-1). These data are obtained by calculating the total carbon mass of cut fronds lost for the period and dividing by the number of days elapsed.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               Carbon_lost_as_blades
+               Carbon lost as blades
+               The rate of carbon mass lost in the form of deteriorating blades due to senescence (kg m-2 d-1). These data are obtained by calculating the total carbon mass of senescing blades lost for the period and dividing by the number of days elapsed.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               Carbon_lost_as_dissolved
+               Carbon lost as dissolved
+               The rate of carbon mass lost in the form of dissolved organic matter (kg m-2 d-1). These data are obtained by calculating the total carbon mass of dissolved matter lost for the period and dividing by the number of days elapsed. These data are equivalent to production and release of dissolved carbon by M. pyrifera.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_FSC_dry
+               SE FSC dry
+               Standard error of FSC_dry. The error in dry mass includes two types of error. Observer error consists of errors made in the number of plants sampled and in the measurement of their size. Regression errors include variability in the allometric relationships used to calculate the size of the three plant sections, as well as uncertainty in the length:wet-mass and wet-mass:dry-mass conversion ratios.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/KiloGM-PER-M2
+               
+            
+            
+               SE_FSC_carbon
+               SE FSC carbon
+               Standard error of FSC_carbon. The error in carbon mass includes observer and regression error. Observer error consists of errors made in the number of plants sampled and in the measurement of their size. Regression errors include variability in the allometric relationships used to calculate the size of the three plant sections, as well as uncertainty in the length:wet-mass, wet-mass:dry-mass and dry-mass:carbon-mass conversion ratios.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/KiloGM-PER-M2
+               
+            
+            
+               SE_FSC_nitrogen
+               SE FSC nitrogen
+               Standard error of FSC_nitrogen. The error in nitrogen mass includes two types of error. Observer error consists of errors made in the number of plants sampled and in the measurement of their size. Regression errors include variability in the allometric relationships used to calculate the size of the three plant sections, as well as uncertainty in the length:wet-mass, wet-mass:dry-mass and dry-mass:nitrogen-mass conversion ratios.
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/KiloGM-PER-M2
+               
+            
+            
+               SE_fraction_canopy
+               SE fraction canopy
+               Standard error of fraction_canopy. The error in fraction of total foliar standing crop observed in the canopy includes two types of error. Observer error consists of errors made in the number of plants sampled and in the measurement of their size. Regression errors include variability in the allometric relationships used to calculate the size of the three plant sections, as well as uncertainty in the length:wet-mass, wet-mass:dry-mass and dry-mass:nitrogen-mass conversion ratios.
+               float
+               
+                  
+                     
+                        dimensionless
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/UNITLESS
+               
+            
+            
+               SE_frond_density
+               SE frond density
+               Standard error of Frond_density. Error in plant density reflects variation in the total number of plants sampled in a plot. This estimate is produced by comparing repeated sampling by different observers of a single plot.
+               float
+               
+                  
+                     
+                        numberPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM-PER-M2
+               
+            
+            
+               SE_plant_density
+               SE plant density
+               Standard error of Plant_density. Error in plant density reflects variation in the total number of plants sampled in a plot. This estimate is produced by comparing repeated sampling by different observers of a single plot.
+               float
+               
+                  
+                     
+                        numberPerMeterSquared
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM-PER-M2
+               
+            
+            
+               SE_plant_loss_rate
+               SE plant loss rate
+               Standard error of Plant_loss_rate. This error is sampling error associated with calculating a mean loss rate for the entire plot based on 10 to15 tagged plants.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_frond_loss_rate
+               SE frond loss rate
+               Standard error of frond_loss_rate. This error is sampling error associated with calculating a mean loss rate for the entire plot based on 10 to15 tagged plants.
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_cut_frond_loss_rate
+               SE cut frond loss rate
+               Standard error of Cut_frond_loss_rate
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_blade_loss_rate
+               SE blade loss rate
+               Standard error of Blade_loss_rate
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_dissolved_loss_rate
+               SE dissolved loss rate
+               Standard error of Dissolved_loss_rate
+               float
+               
+                  
+                     
+                        reciprocalDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PER-DAY
+               
+            
+            
+               SE_carbon_lost_as_plants
+               SE carbon lost as plants
+               Standard error of Carbon_lost_as_plants
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_carbon_lost_as_fronds
+               SE carbon lost as fronds
+               Standard error of Carbon_lost_as_fronds
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_carbon_lost_as_cut
+               SE carbon lost as cut
+               Standard error of Carbon_lost_as_cut
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_carbon_lost_as_blades
+               SE carbon lost as blades
+               Standard error of Carbon_lost_as_blades
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               SE_carbon_lost_as_dissolved
+               SE carbon lost as dissolved
+               Standard error of Carbon_lost_as_dissolved
+               float
+               
+                  
+                     
+                        kilogramPerMeterSquaredPerDay
+                     
+                     1e-06
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+         
+         774
+      
+      
+         Census of fronds on marked plants
+         Census of fronds on marked plants
+         
+            Census of fronds on marked plants_20240325.csv
+            253717
+            c4db3714acae69d83f16890262376774
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     no
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/112/9/d23ff8674913610988f2aa8d32ac2df1
+               
+            
+         
+         
+            
+               Site
+               Sampling site
+               The name of the kelp forest sampled, ABUR = Arroyo Burro, AQUE = Arroyo Quemado, MOHK = Mohawk Reef.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Plant_ID
+               Plant ID
+               A unique identification label for each plant sampled. The lettered prefix indicates the site where the plant is located; the number identifies the plant.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Date
+               Date
+               Sampling date
+               dateTime
+               
+                  
+                     YYYY-MM-DD
+                     1
+                     
+                  
+               
+            
+            
+               Total_fronds
+               Total fronds
+               The total number of fronds > 1m in length on the plant at the time of sampling. These data include both tagged fronds remaining from previous sampling dates and any new fronds.
+               integer
+               
+                  
+                     
+                        number
+                     
+                     1
+                     
+                        integer
+                     
+                  
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               New_fronds
+               New fronds
+               Number of new fronds on the plant since the last sampling date
+               integer
+               
+                  
+                     
+                        number
+                     
+                     1
+                     
+                        integer
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+         
+         8886
+      
+      
+         Macrocystis pyrifera blade water, carbon, and nitrogen content
+         Giant kelp blade water, carbon, and nitrogen content
+         
+            Macrocystis pyrifera blade water carbon and nitrogen content_20240325.csv
+            58149
+            6a7f1af47f9349094544b8ca493e9a8c
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     no
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/112/9/471d15f0059405e8639425408aee4153
+               
+            
+         
+         
+            
+               Site
+               Site
+               The name of the kelp forest sampled, ABUR = Arroyo Burro, AQUE = Arroyo Quemado, MOHK = Mohawk Reef.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Date
+               Date
+               Sampling date
+               dateTime
+               
+                  
+                     YYYY-MM-DD
+                     1
+                     
+                  
+               
+            
+            
+               Replicate
+               Replicate
+               Identification label for replicate analytical sample from one composite field sample.
+               integer
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Dry_to_wet_ratio
+               Dry to wet ratio
+               The ratio of dry to wet mass of a composite sample of 15 kelp blades. These data are laboratory measurements from tissue samples obtained from 15 mature blades collected at each site on each sampling date.
+               float
+               
+                  
+                     
+                        dimensionless
+                     
+                     0.01
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/UNITLESS
+               
+            
+            
+               Percent_carbon
+               Percent carbon
+               The percentage of blade mass comprised of carbon. These data are laboratory measurements made using an elemental analyzer from tissue samples obtained from 15 mature blades collected at each site on each sampling date.
+               float
+               
+                  
+                     
+                        percent
+                     
+                     0.01
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PERCENT
+               
+            
+            
+               Percent_nitrogen
+               Percent nitrogen
+               The percentage of blade mass comprised of nitrogen. These data are laboratory measurements made using an elemental analyzer from tissue samples obtained from 15 mature blades collected at each site on each sampling date.
+               float
+               
+                  
+                     
+                        percent
+                     
+                     0.01
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PERCENT
+               
+            
+            
+               Percent_hydrogen
+               Percent hydrogen
+               The percentage of blade mass comprised of hydrogen. These data are laboratory measurements made using an elemental analyzer from tissue samples obtained from 15 mature blades collected at each site on each sampling date.
+               float
+               
+                  
+                     
+                        percent
+                     
+                     0.01
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/PERCENT
+               
+            
+         
+         1403
+      
+      
+         Regression parameters to estimate biomass and production from frond density
+         Regression parameters to estimate biomass and production from frond density
+         
+            Regression parameters to estimate biomass and production from frond density_20240325.csv
+            12205
+            2c9daaa9af341cd3b43317851328772d
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     no
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/112/9/6bc968141edf7b9e0a6bac923f5f78b2
+               
+            
+         
+         
+            
+               Model
+               Model
+               Identifier for linear regression
+               integer
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Month
+               Month
+               The modeled month
+               integer
+               
+                  
+                     MM
+                     1
+                     
+                  
+               
+            
+            
+               Independent_variable
+               Independent variable
+               The independent variables used in linear regressions performed between frond density (fronds > 1 meter tall per m-2) in a specified month and monthly FSC, seasonal NPP, or annual NPP. These variables represent monthly measurements of frond density collected at 3 sites from 2002-2016.
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Dependent_variable
+               Dependent variable
+               Dependent variable in a linear regression between frond density and FSC, seasonal NPP, or annual NPP
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               Slope
+               Slope
+               Slope of a linear regression between frond density and FSC, seasonal NPP, or annual NPP
+               float
+               
+                  
+                     
+                        number
+                     
+                     1e-05
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               Intercept
+               Intercept
+               Intercept of a linear regression between frond density and FSC, seasonal NPP, or annual NPP
+               float
+               
+                  
+                     
+                        number
+                     
+                     1e-05
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               pvalue
+               pvalue
+               P value of a linear regression between frond density and FSC, seasonal NPP, or annual NPP
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               rsquare
+               rsquare
+               Coefficient of determination of a linear regression between frond density and FSC, seasonal NPP, or annual NPP
+               float
+               
+                  
+                     
+                        dimensionless
+                     
+                     0.01
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/UNITLESS
+               
+            
+            
+               N
+               N
+               Sample size of a linear regression between frond density and FSC, seasonal NPP, or annual NPP
+               integer
+               
+                  
+                     
+                        number
+                     
+                     1
+                     
+                        integer
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+         
+         108
+      
+      
+         Plant frond number and size
+         Plant frond number and size
+         
+            Frond_Density_All_Years_pub_20240325.csv
+            3981240
+            2aa4dd2c608e2d2c474d91bc08d0514f
+            
+               
+                  1
+                  \r\n
+                  column
+                  
+                     ,
+                     no
+                     "
+                  
+               
+            
+            
+               
+                  https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/112/9/f81190938c9835f6ba5f7b825cc9af35
+               
+            
+         
+         
+            
+               YEAR
+               Year
+               Sampling year
+               integer
+               
+                  
+                     YYYY
+                     1
+                     
+                  
+               
+            
+            
+               MONTH
+               Month
+               The modeled month
+               integer
+               
+                  
+                     MM
+                     1
+                     
+                  
+               
+            
+            
+               DATE
+               Date
+               Sampling date
+               dateTime
+               
+                  
+                     YYYY-MM-DD
+                     1
+                     
+                  
+               
+            
+            
+               SITE
+               Sampling site
+               Code for the kelp forest sampled, ABUR = Arroyo Burro, AQUE = Arroyo Quemado, MOHK = Mohawk Reef
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               TRANSECT
+               Transect
+               Identification number of replicate transect sampled at a site
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               SIDE
+               Side
+               Subsection of transect sampled (N=north, S = south)
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+            
+            
+               DIST
+               Distance
+               Distance (m) from the start of each transect section where a kelp plant was recorded
+               float
+               
+                  
+                     
+                        meter
+                     
+                     0.1
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/M
+               
+            
+            
+               C_P_T
+               C_P_T
+               Code used to identify plants that 1) had canopy fronds cut by a boat propeller (=C), 2) had a holdfast that was partially within the transect and partially outside the transect (=P), and 3) had fronds that were tangled with other plants which required some of the plant metrics to be estimated (=T)
+               string
+               
+                  
+                     
+                        
+                           any text
+                        
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+            
+            
+               F_1M
+               F_1M
+               The number of fronds on a plant extended to 1 m above the holdfast
+               float
+               
+                  
+                     
+                        number
+                     
+                     1
+                     
+                        integer
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               F_SFC
+               F_SFC
+               The number of fronds on a plant that extended to the sea surface
+               float
+               
+                  
+                     
+                        number
+                     
+                     1
+                     
+                        integer
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/NUM
+               
+            
+            
+               SFC_LONG
+               SFC_LONG
+               The length (m) of the portion of the longest frond that was at the sea surface
+               float
+               
+                  
+                     
+                        meter
+                     
+                     0.1
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/M
+               
+            
+            
+               MEAN_F
+               MEAN_F
+               Average length of the fronds on plants that did not reach the sea surface
+               float
+               
+                  
+                     
+                        meter
+                     
+                     0.1
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/M
+               
+            
+            
+               DEPTH
+               DEPTH
+               The depth (m) measured at the top of a holdfast of a plant
+               float
+               
+                  
+                     
+                        meter
+                     
+                     0.1
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/M
+               
+            
+            
+               AREA
+               AREA
+               The area (m2) of the side of a transect that was sampled
+               float
+               
+                  
+                     
+                        meterSquared
+                     
+                     0.1
+                     
+                        real
+                     
+                  
+               
+               
+                  -99999
+                  value not recorded or not available
+               
+               
+                  http://qudt.org/schema/qudt/hasUnit
+                  http://qudt.org/vocab/unit/M2
+               
+            
+         
+         59205
+      
+   
+   
+      
+         
+            
+               a designation asserting the absence of an associated unit
+            
+            
+               kilograms per square meter
+            
+            
+               areal primary production rate, may apply to DW, or to element content, e.g., Carbon or Nitrogen"
+            
+            
+               SI unit of length
+            
+            
+               area, meter squared from the LTER unit dictionary
+            
+            
+               areal flux rate
+            
+            
+               a number
+            
+            
+               number per meter squared
+            
+            
+               ratio of two quantities as percent composition (1:100)
+            
+            
+               per day, specific growth rate
+            
+         
+      
+   

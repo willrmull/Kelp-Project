@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="knb-lter-sbc.144.1"
+  system="https://pasta.edirepository.org"
+  xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+  xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://nis.lternet.edu/schemas/EML/eml-2.2.0/xsd/eml.xsd">
+  <access
+    authSystem="https://pasta.edirepository.org/authentication"
+    order="allowFirst" scope="document"
+      system="https://pasta.edirepository.org">
+    <allow>
+      <principal>uid=SBC,o=EDI,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>uid=lkui,o=EDI,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <alternateIdentifier
+        system="https://doi.org">doi:10.6073/pasta/27e795dee803493140d6a7cdc3d23379</alternateIdentifier><shortName>Kelp biomass and environmental drivers</shortName>
+    <title>SBC LTER: REEF:  Macrocystis pyrifera biomass and environmental drivers in southern and central California</title>
+    <creator>
+      <organizationName>Santa Barbara Coastal LTER</organizationName>
+      <address>
+        <deliveryPoint>Marine Science Institute University of California</deliveryPoint>
+        <city>Santa Barbara</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>93106</postalCode>
+        <country>USA</country>
+      </address>
+      <electronicMailAddress>sbclter@msi.ucsb.edu</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Tom W</givenName>
+        <surName>Bell</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>Woods Hole Oceanographic Institution 266 Woods Hole Road</deliveryPoint>
+        <city>Woods Hole</city>
+        <administrativeArea>MA</administrativeArea>
+        <postalCode>02543</postalCode>
+        <country>US</country>
+      </address>
+      <electronicMailAddress> tbell@whoi.edu</electronicMailAddress>
+      <userId
+        directory="https://orcid.org/">https://orcid.org/0000-0002-0173-2866</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Kyle C</givenName>
+        <surName>Cavanaugh</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>Department of Geography University of California</deliveryPoint>
+        <city>Los Angeles</city>
+        <administrativeArea>CA</administrativeArea>
+        <postalCode>90095</postalCode>
+        <country>US</country>
+      </address>
+      <electronicMailAddress>kcavanaugh@geog.ucla.edu</electronicMailAddress>
+      <userId
+        directory="https://orcid.org/">https://orcid.org/0000-0002-3313-0878</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Daniel</givenName>
+        <surName>Reuman</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>Kansas Biological Survey &amp; Center for Ecological Research The University of Kansas</deliveryPoint>
+        <city>Lawrence</city>
+        <administrativeArea>KS</administrativeArea>
+        <postalCode>66047 </postalCode>
+        <country>Scotland</country>
+      </address>
+      <electronicMailAddress>reuman@ku.edu</electronicMailAddress>
+      <userId
+        directory="https://orcid.org/">https://orcid.org/0000-0002-1407-8947</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Max C. N.</givenName>
+        <surName>Castorani</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>Department of Environmental Sciences University of Virginia</deliveryPoint>
+        <city>Charlottesville</city>
+        <administrativeArea>VA</administrativeArea>
+        <postalCode>22904-4123</postalCode>
+        <country>US</country>
+      </address>
+      <electronicMailAddress>castorani@virginia.edu</electronicMailAddress>
+      <userId
+        directory="https://orcid.org/">https://orcid.org/0000-0002-7372-9359</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Lawrence</givenName>
+        <surName>Sheppard</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>Kansas Biological Survey &amp; Center for Ecological Research The University of Kansas</deliveryPoint>
+        <city>Lawrence</city>
+        <administrativeArea>KS</administrativeArea>
+        <postalCode>66047 </postalCode>
+        <country>Scotland</country>
+      </address>
+      <electronicMailAddress>lwsheppard@hotmail.com</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Jonathan</givenName>
+        <surName>Walter</surName>
+      </individualName>
+      <address>
+        <deliveryPoint>Department of Environmental Sciences University of Virginia</deliveryPoint>
+        <city>Charlottesville</city>
+        <administrativeArea>VA</administrativeArea>
+        <postalCode>22904</postalCode>
+        <country>US</country>
+      </address>
+      <electronicMailAddress>jaw3es@virginia.edu</electronicMailAddress>
+    </creator>
+    <pubDate>2021-09-27</pubDate>
+    <language>English</language>
+    <abstract>
+      <section>
+        <para>
+    These data describe 1987-2019 time series of giant kelp
+    (<emphasis>Macrocystis pyrifera</emphasis>) biomass and associated
+    environmental variables (wave height, nitrate concentration, climate
+    indices) at quarterly and annual time intervals. Data for spatially
+    resolvable variables (giant kelp biomass, wave height, nitrate
+    concentration) pertain to 361 coastline segments (500 m length) in
+    southern and central California where giant kelp was persistent over
+    the sampling period. Data are contained in 5 tables: 1) quarterly
+    time series of giant kelp biomass, wave height, and nitrate
+    concentrations for 361 coastline segments; 2) quarterly time series
+    of aspatial climate indices (NPGO, MEI, PDO); 3) annual time series
+    of giant kelp biomass, wave height, and nitrate concentrations for
+    361 coastline segments; 4) annual time series of aspatial climate
+    indices (NPGO, MEI, PDO); 5) locations (latitude and longitude of
+    center) of coastline segments. Kelp data are derived from satellite
+    imagery using empirical relationships. Wave data are derived from an
+    empirically validated swell propagation model. Nitrate data are
+    derived from empirical relationships with remotely-sensed sea
+    surface temperature.
+  </para>
+      </section>
+    </abstract>
+    <keywordSet>
+      <keyword
+        keywordType="theme">growth</keyword>
+      <keyword
+        keywordType="theme">long term ecological research</keyword>
+      <keyword
+        keywordType="theme">LTER</keyword>
+      <keyword
+        keywordType="theme">nitrate</keyword>
+      <keyword
+        keywordType="theme">nutrients</keyword>
+      <keyword
+        keywordType="theme">Santa Barbara Coastal</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary v1</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword
+        keywordType="theme">Ecosystem Processes</keyword>
+      <keyword
+        keywordType="theme">Kelp Forest</keyword>
+      <keyword
+        keywordType="theme">Nearshore Ocean</keyword>
+      <keyword
+        keywordType="theme">Reef</keyword>
+      <keyword
+        keywordType="theme">significant wave height</keyword>
+      <keywordThesaurus>SBC-LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword
+        keywordType="theme">Marine Plants</keyword>
+      <keyword
+        keywordType="theme">Nitrate</keyword>
+      <keyword
+        keywordType="theme">Nutrients</keyword>
+      <keywordThesaurus>Global Change Master Directory (GCMD) v6.0.0.0.0</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword
+        keywordType="theme">Nitrate</keyword>
+      <keyword
+        keywordType="theme">Nutrients</keyword>
+      <keywordThesaurus>Knowledge Network for Biocomplexity</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword
+        keywordType="theme">Nutrients</keyword>
+      <keyword
+        keywordType="theme">Reefs</keyword>
+      <keywordThesaurus>NBII Biocomplexity</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword
+        keywordType="theme">marine algae</keyword>
+      <keywordThesaurus>Ecological Archives</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword
+        keywordType="theme">kelp biomass</keyword>
+      <keyword
+        keywordType="theme">kelp forest</keyword>
+      <keyword
+        keywordType="theme">LTER</keyword>
+      <keyword
+        keywordType="taxonomic">Macrocystis pyrifera (Giant kelp)</keyword>
+      <keyword
+          keywordType="theme">Marine Plants</keyword>
+      <keywordThesaurus>none</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+      <para>
+  This data package is released under the Creative Commons License
+  Attribution 4.0 International (CC BY 4.0, see
+  https://creativecommons.org/licenses/by/4.0/). This license states
+  that consumers ("Data Users" herein) may distribute, adapt,
+  reuse, remix, and build upon this work, as long as they give
+  appropriate credit, provide a link to the license, and indicate if
+  changes were made. If redistributed, a Data User may not apply
+  additional restrictions or technological measures that prevent access.
+</para>
+      <para>
+  The Data User has an ethical obligation to cite the data source
+  appropriately in any publication or product that results from its use,
+  and notify the data contact or creator. Communication, collaboration,
+  or co-authorship (as appropriate) with the creators of this data
+  package is encouraged to prevent duplicate research or publication.
+  The Data User is urged to contact the authors of these data if any
+  questions about methodology or results occur. The Data User should
+  realize that these data may be actively used by others for ongoing
+  research and that coordination may be necessary to prevent duplication
+  or inappropriate use. The Data User should realize that
+  misinterpretation may occur if data are used outside of the context of
+  the original study. The Data User should be aware that data are
+  updated periodically and it is the responsibility of the Data User to
+  check for new versions of the data.
+</para>
+      <para>
+  While substantial efforts are made to ensure the accuracy of data and
+  associated documentation, complete accuracy of data sets cannot be
+  guaranteed. This data package (with its components) is made available
+  “as is” and with no warranty of accuracy or fitness for use. The
+  creators of this data package and the repository where these data were
+  obtained shall not be liable for any damages resulting from
+  misinterpretation, use or misuse of the data package or its
+  components.
+</para>
+    </intellectualRights>
+    <distribution>
+      <online>
+        <url
+        function="information">http://sbc.lternet.edu/</url>
+      </online>
+    </distribution>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Santa Barbara Channel: Santa Barbara Channel</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.3283155</westBoundingCoordinate>
+          <eastBoundingCoordinate>-117.2508669</eastBoundingCoordinate>
+          <northBoundingCoordinate>37.11270465</northBoundingCoordinate>
+          <southBoundingCoordinate>32.65688299</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>1987-01-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2019-12-31</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <contact>
+      <positionName>Information Manager, Santa Barbara Coastal LTER</positionName>
+      <address
+        scope="document">
+        <deliveryPoint>Marine Science Institute</deliveryPoint>
+        <deliveryPoint>University of California</deliveryPoint>
+        <city>Santa Barbara</city>
+        <administrativeArea>California</administrativeArea>
+        <postalCode>93106-6150</postalCode>
+        <country>United States</country>
+      </address>
+      <phone
+        phonetype="voice">805 893 2071</phone>
+      <electronicMailAddress>sbclter@msi.ucsb.edu</electronicMailAddress>
+      <onlineUrl>https://sbclter.msi.ucsb.edu/</onlineUrl>
+    </contact>
+    
+    <publisher><organizationName>Environmental Data Initiative</organizationName><electronicMailAddress>info@environmentaldatainitiative.org</electronicMailAddress><onlineUrl>https://environmentaldatainitiative.org</onlineUrl></publisher><pubPlace>Environmental Data Initiative</pubPlace><methods>
+      <methodStep>
+        <description>
+          <section>
+            <para>
+    Giant kelp is a globally-distributed species that forms a
+    conspicuous monospecific surface canopy that makes it amenable to
+    remote measurement over large areas and decadal time-spans. We
+    developed 33-year time series (1987 through 2019) of annual mean
+    giant kelp canopy wet biomass (kg) for coastline segments spanning
+    southern and central California, USA by calibrating satellite remote
+    sensing data to field observations. Methods are described in detail
+    in Cavanaugh <emphasis>et al.</emphasis> (2011) and Bell
+    <emphasis>et al.</emphasis> (2020), and briefly summarized here. The
+    fraction of kelp cover in Landsat images (30 m × 30 m pixels) was
+    estimated using a spectral unmixing algorithm with kelp and water
+    endmembers. An empirical relationship was used to convert the
+    satellite-derived kelp cover data to kelp biomass. The data were
+    spatially aggregated to 500 m segments of mainland coastline, and
+    are provided at two temporal resolutions: quarterly (Q1 = Jan – Mar,
+    Q2 = Apr – Jun, Q3 = Jul – Sep, Q4 = Oct – Dec) and annual. Data
+    were annualized by averaging. We selected coastline segments where
+    kelp was absent (zero or no data) for no more than 3 years during
+    the study period to focus on sites where kelp was largely persistent
+    throughout the study period. Of 437 coastline segments for which
+    kelp was present in at least one year, 361 (83%) were selected for
+    inclusion in this dataset.
+  </para>
+            <para>
+    We also obtained data on key environmental drivers of giant kelp
+    dynamics: wave intensity, seawater nitrate concentration, and three
+    climate indices: the North Pacific Gyre Oscillation (NPGO) index,
+    the Pacific Decadal Oscillation (PDO) index, and the Multivariate El
+    Niño Index (MEI). Annual average maximum significant wave heights
+    were obtained from the CDIP MOP v1.1 model
+    (http://cdip.ucsd.edu/MOP_v1.1/) and aggregated to 500 m coastline
+    segments. Briefly, the model combines hourly empirical measurements
+    of significant wave height and direction (from the U.S. National
+    Buoy Data Center, NBDC) with swell propagation and swell hindcast
+    models (Wingeart <emphasis>et al.</emphasis> 2002, Hanson
+    <emphasis>et al.</emphasis> 2009, O’Rielly <emphasis>et
+    al.</emphasis> 2016). Wave data were then hindcasted to 1987
+    following methods described in Bell <emphasis>et al.</emphasis>
+    (2015).
+  </para>
+            <para>
+    We computed surface seawater nitrate concentrations for each 500 m
+    segment using established empirical relationships between nitrate
+    concentration and sea surface temperature (Zimmerman &amp; Kremer
+    1984, Palacios <emphasis>et al.</emphasis> 2013, Snyder <emphasis>et
+    al.</emphasis> 2020). Sea surface temperature estimates were
+    obtained from Advanced Very High Resolution Radiometer satellite
+    imagery (Reynolds <emphasis>et al.</emphasis> 2007, Banzon
+    <emphasis>et al.</emphasis> 2016). Values of the NPGO index were
+    obtained from Di Lorenzo <emphasis>et al.</emphasis> (2008). Values
+    of the PDO index were obtained from
+    https://www.ncdc.noaa.gov/teleconnections/pdo/. Values of the MEI
+    were obtained from https://psl.noaa.gov/enso/mei/. Note that unlike
+    the kelp, wave, and nitrate data, the climate indices do not vary
+    spatially.
+  </para>
+          </section>
+          <section>
+            <title>References:</title>
+            <para>
+    Banzon, V., Smith, T.M., Chin, T.M., Liu, C., &amp; Hankins, W.
+    (2016) A long-term record of blended satellite and in situ sea
+    surface temperature for climate monitoring, modeling and
+    environmental studies. <emphasis>Earth System Science
+    Data</emphasis> 8, 165-176.
+  </para>
+            <para>
+    Bell, T.W., Allen, J.G., Cavanaugh, K.C., &amp; Siegel, D.A. (2020)
+    Three decades of variability in California’s giant kelp forests from
+    the Landsat satellites. <emphasis>Remote Sensing of
+    Environment</emphasis> 238, 110811.
+  </para>
+            <para>
+    Bell, T.W., Cavanaugh, K.C., Reed, D.C., &amp; Siegel, D.A. (2015)
+    Geographical variability in the controls of giant kelp biomass
+    dynamics. <emphasis>Journal of Biogeography</emphasis> 42,
+    2010-2021.
+  </para>
+            <para>
+    Cavanaugh, K.C., Siegel, D.A., Reed, D.C., &amp; Dennison, P.E.
+    (2011) Environmental controls of giant-kelp biomass in the Santa
+    Barbara Channel, California. <emphasis>Marine Ecology Progress
+    Series</emphasis> 429, 1-17.
+  </para>
+            <para>
+    Di Lorenzo, E., Schneider, N., Cobb, K.M., Franks, P.J.S., Chhak,
+    K., Miller, A.J., McWilliams, J.C., Bograd, S.J., Arango, H.,
+    Curchister, C., <emphasis>et al</emphasis>. (2008) North Pacific
+    Gyre Oscillation links ocean climate and ecosystem change.
+    <emphasis>Geophysical Research Letters</emphasis> 35, 8.
+  </para>
+            <para>
+    Hanson, J.L., Tracy, B.A., Tolman, H.L., &amp; Douglas, S.R. (2009)
+    Pacific hindcast performance of three numerical wave models.
+    <emphasis>Journal of Atmospheric and Oceanic Technology</emphasis>
+    26, 1614-1633.
+  </para>
+            <para>
+    O’Rielly, W.C., Olfe, C.B., Thomas, J., Seymour, R.J., &amp; Guza,
+    R.T. (2016) The California coastal wave monitoring and prediction
+    system. <emphasis>Coastal Engineering</emphasis> 116, 118-132.
+  </para>
+            <para>
+    Palacios, D.M., Hazen, E.L., Schroeder, I.D., &amp; Bograd, S.J.
+    (2013) Modeling the temperature-nitrate relationship in the coastal
+    upwelling domain of the California Current. <emphasis>Journal of
+    Geophysical Research: Oceans</emphasis> 118, 3223-3239.
+  </para>
+            <para>
+    Reynolds, R.W., Smith, T.M., Liu, C., Chelton, D.B., Casey, K.S.,
+    &amp; Schlax, M.G. (2007) Daily high-resolution-blended analyses for
+    sea surface temperature. <emphasis>Journal of Climate</emphasis> 20,
+    5473-5496.
+  </para>
+            <para>
+    Snyder, J.N., Bell, T.W., Siegel, D.A., Nidzieko, N.J., &amp;
+    Cavanaugh, K.C. (2020) Sea surface temperature imagery elucidates
+    spatiotemporal nutrient patterns for offshore kelp aquaculture
+    siting in the Southern California bight. <emphasis>Frontiers in
+    Marine Science</emphasis> 7, 22.
+  </para>
+            <para>
+    Wingeart, K.M., Herbers, T.H.C., O’Rielly, W.C., Wittman, P.A.,
+    Jensen, R.E., &amp; Tolman, H.L. (2002) Validation of operational
+    global wave prediction models with spectral buoy data. p. 590-599 in
+    <emphasis>Ocean Wave Measurement and Analysis</emphasis>. American
+    Society of Civil Engineers.
+  </para>
+            <para>
+    Zimmerman, R.C., &amp; Kremer, J.N. (1984) Episodic nutrient supply
+    to a kelp forest ecosystem in Southern California. <emphasis>Journal
+    of Marine Research</emphasis> 42, 591-604.
+  </para>
+          </section>
+        </description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Santa Barbara Coastal Long Term Ecological Research Project</title>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Robert</givenName>
+          <surName>Miller</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Marine Science Institute</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-6150</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 6174</phone>
+        <electronicMailAddress>miller@msi.ucsb.edu</electronicMailAddress>
+        <role>Principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Dan</givenName>
+          <surName>Reed</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Marine Science Institute</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-6150</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 8363</phone>
+        <electronicMailAddress>dan.reed@lifesci.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Adrian</givenName>
+          <surName>Stier</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Department of Ecology, Evolution and Marine Biology</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-9260</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 5467</phone>
+        <electronicMailAddress>adrian.stier@lifesci.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>Gretchen</givenName>
+          <surName>Hoffman</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Department of Ecology, Evolution and Marine Biology</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-9620</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+        phonetype="voice">805 893 6175</phone>
+        <electronicMailAddress>hofmann@lifesci.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <personnel
+          scope="document">
+        <individualName>
+          <salutation>Dr.</salutation>
+          <givenName>David</givenName>
+          <surName>Siegel</surName>
+        </individualName>
+        <address
+          scope="document">
+          <deliveryPoint>Institute for Computational Earth System Science</deliveryPoint>
+          <deliveryPoint>University of California</deliveryPoint>
+          <city>Santa Barbara</city>
+          <administrativeArea>California</administrativeArea>
+          <postalCode>93106-3060</postalCode>
+          <country>United States</country>
+        </address>
+        <phone
+          phonetype="voice">805 893 4547</phone>
+        <electronicMailAddress>davey@icess.ucsb.edu</electronicMailAddress>
+        <role>Co-principal Investigator</role>
+      </personnel>
+      <abstract>
+        <section>
+          <para>The Santa Barbara Coastal LTER (SBC LTER) is an interdisciplinary research and education program
+established in April 2000 with the goal of developing a predictive understanding of how environmental
+drivers interact with terrestrial and oceanic processes to alter material flows and influence the ecology of
+coastal ecosystems. SBC LTER's principal study domain is the semi-arid coast and nearshore waters of
+the Santa Barbara Channel in southern California, and its diverse and productive marine forests of giant
+kelp (<emphasis>Macrocystis pyrifera</emphasis>) serve as the focal study ecosystem. Analyses of our long-term data have
+identified many of the environmental drivers and ecological processes underlying the production and
+community dynamics of kelp forests. The research proposed to address this question is integrated in a conceptual framework
+that focuses on the causes and ecological consequences of the dynamics of a relatively short-lived
+foundation species in a setting of long-term climate change and human use.</para>
+        </section>
+      </abstract>
+      <funding>
+        <section>
+          <para>NSF Award OCE-9982105, OCE-0620276, OCE-1232779, OCE-1831937</para>
+        </section>
+      </funding>
+    </project>
+    <dataTable>
+      <entityName>Quarterly time series of kelp, nitrate, and waves</entityName>
+      <entityDescription>Kelp biomass, sea water nitrate concetration, and wave height at quarterly time steps</entityDescription>
+      <physical>
+        <objectName>kelp_no3_waves_quarterly_long.csv</objectName>
+        <size
+          unit="byte">1284656</size>
+        <authentication
+              method="MD5">dc121d4daa227e508452f18cbdc71aa3</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <collapseDelimiters>no</collapseDelimiters>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/42e5ca2a0a1b51407aefb1a22cb61866</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeLabel>site id</attributeLabel>
+          <attributeDefinition>Site identifier code</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeLabel>year</attributeLabel>
+          <attributeDefinition>Year of measurement</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimePrecision>1</dateTimePrecision>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>quarter</attributeName>
+          <attributeLabel>quarter</attributeLabel>
+          <attributeDefinition>Quarter of measurement</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>kelp</attributeName>
+          <attributeLabel>kelp biomass</attributeLabel>
+          <attributeDefinition>Kelp biomass estimated from remotely sensed data and empirical relationships</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>kilogram</standardUnit>
+              </unit>
+              <precision>0.5</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>no3</attributeName>
+          <attributeLabel>seawater nitrate concentation</attributeLabel>
+          <attributeDefinition>Seawater nitrate concentration estimated from empirical relationships with remotely sensed sea surface temperature</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>microMolesPerLiter</customUnit>
+              </unit>
+              <precision>0.01</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>waves</attributeName>
+          <attributeLabel>wave height</attributeLabel>
+          <attributeDefinition>Wave height estimated from swell propagation model</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <precision>0.001</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>47652</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Quarterly time series of climate indices</entityName>
+      <entityDescription>Climate indices NPGO, PDO, and MEI at quarterly time steps</entityDescription>
+      <physical>
+        <objectName>climind_quarterly.csv</objectName>
+        <size
+          unit="byte">3186</size>
+        <authentication
+              method="MD5">bb647edf9f23e5486c3b5106fba00c6f</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <collapseDelimiters>no</collapseDelimiters>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/cfc9dd06fab598c27a78709c915ce81d</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeLabel>year</attributeLabel>
+          <attributeDefinition>Year of measurement</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimePrecision>1</dateTimePrecision>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>quarter</attributeName>
+          <attributeLabel>quarter</attributeLabel>
+          <attributeDefinition>Quarter of measurement</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>NPGO</attributeName>
+          <attributeLabel>NPGO</attributeLabel>
+          <attributeDefinition>Value of the Northern Pacific Gyre Oscillation index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>MEI</attributeName>
+          <attributeLabel>MEI</attributeLabel>
+          <attributeDefinition>Value of the Multivariate El Nino Index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PDO</attributeName>
+          <attributeLabel>PDO</attributeLabel>
+          <attributeDefinition>Value of the Pacific Decadal Oscillation index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>132</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Annual time series of kelp, nitrate, and waves</entityName>
+      <entityDescription>Kelp biomass, sea water nitrate concetration, and wave height at annual time steps</entityDescription>
+      <physical>
+        <objectName>kelp_no3_waves_annual_long.csv</objectName>
+        <size
+          unit="byte">362495</size>
+        <authentication
+              method="MD5">513c4d8cf63fe906f94e5f2544b35a97</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <collapseDelimiters>no</collapseDelimiters>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/2aa452e37d7a6ce03e8af19311d924dd</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeLabel>site id</attributeLabel>
+          <attributeDefinition>Site identifier code</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeLabel>year</attributeLabel>
+          <attributeDefinition>Year of measurement</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimePrecision>1</dateTimePrecision>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>kelp</attributeName>
+          <attributeLabel>kelp biomass</attributeLabel>
+          <attributeDefinition>Kelp biomass estimated from remotely sensed data and empirical relationships</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>kilogram</standardUnit>
+              </unit>
+              <precision>0.5</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>no3</attributeName>
+          <attributeLabel>seawater nitrate concentation</attributeLabel>
+          <attributeDefinition>Seawater nitrate concentration estimated from empirical relationships with remotely sensed sea surface temperature</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>microMolesPerLiter</customUnit>
+              </unit>
+              <precision>0.01</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>waves</attributeName>
+          <attributeLabel>wave height</attributeLabel>
+          <attributeDefinition>Wave height estimated from swell propagation model</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <precision>0.001</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>11913</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Annual time series of climate indices</entityName>
+      <entityDescription>Climate indices NPGO, PDO, and MEI at annual time steps</entityDescription>
+      <physical>
+        <objectName>climind_annual.csv</objectName>
+        <size
+          unit="byte">890</size>
+        <authentication
+              method="MD5">94a83bebef8855dec8c9e38f499d7241</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <collapseDelimiters>no</collapseDelimiters>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/91190eac2b6b35f58353a19dbba676b9</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>year</attributeName>
+          <attributeLabel>year</attributeLabel>
+          <attributeDefinition>Year of measurement</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY</formatString>
+              <dateTimePrecision>1</dateTimePrecision>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>NPGO</attributeName>
+          <attributeLabel>NPGO</attributeLabel>
+          <attributeDefinition>Value of the Northern Pacific Gyre Oscillation index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>MEI</attributeName>
+          <attributeLabel>MEI</attributeLabel>
+          <attributeDefinition>Value of the Multivariate El Nino Index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>PDO</attributeName>
+          <attributeLabel>PDO</attributeLabel>
+          <attributeDefinition>Value of the Pacific Decadal Oscillation index</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>number</standardUnit>
+              </unit>
+              <precision>1e-04</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>33</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Locations of coastline segments</entityName>
+      <entityDescription>Latitude-longitude coordinates of centers of coastline segments for kelp, nitrate, and wave data</entityDescription>
+      <physical>
+        <objectName>locations.csv</objectName>
+        <size
+          unit="byte">10656</size>
+        <authentication
+              method="MD5">f293679ab72289c03ea2d93bbc142a92</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <collapseDelimiters>no</collapseDelimiters>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url
+          function="download">https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/37f8a10e2448275459b7055ca6e423cd</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>site_id</attributeName>
+          <attributeLabel>site id</attributeLabel>
+          <attributeDefinition>Site identifier code</attributeDefinition>
+          <storageType>integer</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>text</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>lat</attributeName>
+          <attributeLabel>Latitude</attributeLabel>
+          <attributeDefinition>Latitude of center of coastline segment </attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <precision>1e-07</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>lon</attributeName>
+          <attributeLabel>Longitude</attributeLabel>
+          <attributeDefinition>Longidute of center of coastline segment</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <precision>1e-07</precision>
+              <numericDomain>
+                <numberType>real</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>361</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList>
+        <unit
+          abbreviation="°" id="degree" multiplierToSI="0.0174532924"
+          name="degree" parentSI="radian"
+          unitType="angle">
+          <description>360 degrees comprise a unit circle.</description>
+        </unit>
+        <unit
+          abbreviation="kg" id="kilogram" multiplierToSI="1"
+          name="kilogram"
+          unitType="mass">
+          <description>SI unit of mass</description>
+        </unit>
+        <unit
+          abbreviation="m" id="meter" multiplierToSI="1" name="meter"
+          unitType="length">
+          <description>SI unit of length</description>
+        </unit>
+        <unit
+          abbreviation="µM/l" id="microMolesPerLiter"
+          multiplierToSI="0.000001" name="microMolesPerLiter"
+          unitType="amountOfSubstanceConcentration">
+          <description>µM = µmoles per liter of solution</description>
+        </unit>
+        <unit
+          id="number" name="number" unitType="dimensionless">
+          <description>a number</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

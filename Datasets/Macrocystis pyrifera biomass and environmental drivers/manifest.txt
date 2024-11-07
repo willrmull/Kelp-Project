@@ -1,0 +1,9 @@
+Manifest file for knb-lter-sbc.144.1.zip created on Wed Oct 30 17:39:17 UTC 2024
+kelp_no3_waves_quarterly_long.csv (1284656 bytes)
+climind_quarterly.csv (3186 bytes)
+kelp_no3_waves_annual_long.csv (362495 bytes)
+climind_annual.csv (890 bytes)
+locations.csv (10656 bytes)
+knb-lter-sbc.144.1.xml (46605 bytes)
+knb-lter-sbc.144.1.txt (24791 bytes)
+knb-lter-sbc.144.1.report.xml (108256 bytes)

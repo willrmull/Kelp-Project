@@ -1,0 +1,539 @@
+
+  
+    
+      uid=SBC,o=EDI,dc=ecoinformatics,dc=org
+      all
+    
+    
+      uid=lkui,o=EDI,dc=ecoinformatics,dc=org
+      all
+    
+    
+      public
+      read
+    
+  
+  
+    knb-lter-sbc.108
+    doi:10.6073/pasta/66aaaa7d4891e57ec561d53d22baa905reef kelp blade loss
+    SBC LTER: REEF:  Macrocystis pyrifera blade area and loss in Southern California
+    
+      Santa Barbara Coastal LTER
+      			Marine Science Institute,University of California
+			Santa Barbara, CA 93106  USA
+      sbclter@msi.ucsb.edu
+    
+    
+      Andrew A Rassweiler
+      andrew.rassweiler@lifesci.ucsb.edu
+      https://orcid.org/0000-0002-8760-3888
+    
+    
+      Gabriel E Rodriguez
+      gabriel.rodriguez@lifesci.ucsb.edu
+    
+    
+      Shannon Harrer
+      harrer@msi.ucsb.edu
+    
+    
+      Daniel C Reed
+      dan.reed@lifesci.ucsb.edu
+      https://orcid.org/0000-0003-3015-8717
+    
+    2022-10-10
+    English
+    
+      
+  These data describe losses of giant kelp (Macrocystis
+  pyrifera) blade tissue observed in the Santa Barbara
+  Channel (Isla Vista Reef) during the summer of 2012. Data are
+  contained in two tables: 1) a time series of measured change in blade
+  area over time at different depths and locations in the kelp forest,
+  2) modeled estimates of partial blade losses specific to blades on
+  subsurface fronds and blades in the water column and canopy sections
+  of surface reaching fronds.
+
+    
+    
+      growth
+      long term ecological research
+      LTER
+      Santa Barbara Coastal
+      LTER Controlled Vocabulary v1
+    
+    
+      Ecosystem Processes
+      Kelp Forest
+      Nearshore Ocean
+      Reef
+      SBC-LTER Controlled Vocabulary
+    
+    
+      Isla Vista Reef
+      Santa Barbara Coastal LTER Places
+    
+    
+      Marine Plants
+      Global Change Master Directory (GCMD) v6.0.0.0.0
+    
+    
+      Fronds
+      NBII Biocomplexity
+    
+    
+      giant kelp
+      marine algae
+      Ecological Archives
+    
+    
+      giant kelp
+      LTER
+      Macrocystis pyrifera
+      Marine Plants
+    
+    
+      
+  This data package is released under the Creative Commons License
+  Attribution 4.0 International (CC BY 4.0, see
+  https://creativecommons.org/licenses/by/4.0/). This license states
+  that consumers ("Data Users" herein) may distribute, adapt,
+  reuse, remix, and build upon this work, as long as they give
+  appropriate credit, provide a link to the license, and indicate if
+  changes were made. If redistributed, a Data User may not apply
+  additional restrictions or technological measures that prevent access.
+
+      
+  The Data User has an ethical obligation to cite the data source
+  appropriately in any publication or product that results from its use,
+  and notify the data contact or creator. Communication, collaboration,
+  or co-authorship (as appropriate) with the creators of this data
+  package is encouraged to prevent duplicate research or publication.
+  The Data User is urged to contact the authors of these data if any
+  questions about methodology or results occur. The Data User should
+  realize that these data may be actively used by others for ongoing
+  research and that coordination may be necessary to prevent duplication
+  or inappropriate use. The Data User should realize that
+  misinterpretation may occur if data are used outside of the context of
+  the original study. The Data User should be aware that data are
+  updated periodically and it is the responsibility of the Data User to
+  check for new versions of the data.
+
+      
+  While substantial efforts are made to ensure the accuracy of data and
+  associated documentation, complete accuracy of data sets cannot be
+  guaranteed. This data package (with its components) is made available
+  “as is” and with no warranty of accuracy or fitness for use. The
+  creators of this data package and the repository where these data were
+  obtained shall not be liable for any damages resulting from
+  misinterpretation, use or misuse of the data package or its
+  components.
+
+    
+    
+      
+        https://sbclter.msi.ucsb.edu/
+      
+    
+    https://doi.org/10.6073/pasta/66aaaa7d4891e57ec561d53d22baa905
+      
+        IVEE: Isla Vista (IV) Reef is located on the Santa Barbara Channel near the University of California Santa Barbara, CA. Depth range is from -8.2 to -8.8 meters.
+        
+          -119.85755
+          -119.85755
+          34.402783
+          34.402783
+        
+      
+      
+        
+          
+            2012-07-03
+          
+          
+            2012-11-01
+          
+        
+      
+    
+    
+      Information Manager, Santa Barbara Coastal LTER
+      			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+      805 893 2071
+      sbclter@msi.ucsb.edu
+      https://sbclter.msi.ucsb.edu/
+    
+    
+    Environmental Data Initiativeinfo@edirepository.orghttps://edirepository.org0330j0z60Environmental Data Initiative
+      
+        
+          
+  The giant kelp, Macrocystis pyrifera, supports
+  one of the most productive ecosystems on Earth and this high
+  productivity is driven by rapid growth and frequent turnover of
+  standing biomass. Losses of entire individuals, entire fronds and of
+  dissolved exudates have been studied at length by the Santa Barbara
+  Coastal Long Term Ecological Research program. However, before an
+  M. pyrifera frond or individual is detached, a
+  portion of the blade biomass on the frond is lost and this material
+  may constitute a significant proportion of giant kelp’s productivity.
+  This study uses a combination of field measurements and mathematical
+  modeling to estimate daily loss rates of blade tissue found on intact
+  kelp fronds that compose the standing biomass.
+
+        
+        
+          Estimates of kelp blade erosion rates
+          
+             Reed
+          
+          
+            
+              https://sbclter.msi.ucsb.edu/external/Reef/Protocols/Kelp_NPP/Kelp_blade_loss_protocol_20170901.pdf
+            
+          
+        
+      
+    
+    
+      Santa Barbara Coastal Long Term Ecological Research Project
+      
+        Dr. Robert Miller
+        			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+        805 893 6174
+        miller@msi.ucsb.edu
+        Principal Investigator
+      
+      
+        Dr. Dan Reed
+        			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+        805 893 8363
+        dan.reed@lifesci.ucsb.edu
+        Co-principal Investigator
+      
+      
+        Dr. Adrian Stier
+        			Department of Ecology, Evolution and Marine Biology
+			University of California
+			Santa Barbara, California 93106-9260  United States
+        805 893 5467
+        adrian.stier@lifesci.ucsb.edu
+        Co-principal Investigator
+      
+      
+        Dr. Gretchen Hoffman
+        			Department of Ecology, Evolution and Marine Biology
+			University of California
+			Santa Barbara, California 93106-9620  United States
+        805 893 6175
+        hofmann@lifesci.ucsb.edu
+        Co-principal Investigator
+      
+      
+        Dr. David Siegel
+        			Institute for Computational Earth System Science
+			University of California
+			Santa Barbara, California 93106-3060  United States
+        805 893 4547
+        davey@icess.ucsb.edu
+        Co-principal Investigator
+      
+      
+        
+          The Santa Barbara Coastal LTER (SBC LTER) is an interdisciplinary research and education program
+established in April 2000 with the goal of developing a predictive understanding of how environmental
+drivers interact with terrestrial and oceanic processes to alter material flows and influence the ecology of
+coastal ecosystems. SBC LTER's principal study domain is the semi-arid coast and nearshore waters of
+the Santa Barbara Channel in southern California, and its diverse and productive marine forests of giant
+kelp (Macrocystis pyrifera) serve as the focal study ecosystem. Analyses of our long-term data have
+identified many of the environmental drivers and ecological processes underlying the production and
+community dynamics of kelp forests. The research proposed to address this question is integrated in a conceptual framework
+that focuses on the causes and ecological consequences of the dynamics of a relatively short-lived
+foundation species in a setting of long-term climate change and human use.
+        
+      
+      
+        
+          NSF Award OCE-9982105, OCE-0620276, OCE-1232779, OCE-1831937
+        
+      
+    
+    
+      M. pyrifera blade area change over time
+      Kelp blade area change over time 
+      
+        Kelp_Blade_Area_20170901.csv
+        62356
+        7205d9e4022083247870a95d354f662c
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/108/2/dd9d8810cbe8ec4a0f3d458411ec9838
+          
+        
+      
+      
+        
+          Date
+          date
+          Sampling date formatted as MM/DD/YYYY
+          date
+          
+            
+              MM/DD/YYYY
+            
+          
+        
+        
+          transect
+          Location on transect
+          Location in the kelp bed, either interior or edge
+          string
+          
+            
+              
+                
+                  
+                    edge
+                    plant is located on the side of the transect nearest the outer edge of the kelp bed
+                  
+                  
+                    interior
+                    plant is located on the side of the transect nearest the inside the kelp bed
+                  
+                
+              
+            
+          
+        
+        
+          tag
+          Tag ID
+          Unique identifier assigned to each sampled kelp blade
+          string
+          
+            
+              
+                
+                  any text
+                
+              
+            
+          
+        
+        
+          frondlength
+          Frond length
+          Total length of sample frond sample blade is on, in meters (frond = stipe plus all blades)
+          decimal
+          
+            
+              
+                meter
+              
+              0.01
+              
+                real
+              
+            
+          
+        
+        
+          bladeposition
+          Blade position
+          Categorical assignment (b, m, t) identifying the vertical position of a blade.
+          string
+          
+            
+              
+                
+                  
+                    b
+                    Blade was located near the bottom at 6 m depth
+                  
+                  
+                    m
+                    Blade was located mid water at 3 m depth
+                  
+                  
+                    t
+                    Blade was located in the kelp canopy at 0 m depth
+                  
+                
+              
+            
+          
+        
+        
+          bladearea
+          Blade area
+          Area of sample blade calculated from length and width, and assuming elliptical shape
+          decimal
+          
+            
+              
+                centimeterSquared
+              
+              0.01
+              
+                real
+              
+            
+          
+        
+        
+          time_days
+          Elapsed time
+          Number of days since first sample was taken
+          integer
+          
+            
+              
+                nominalDay
+              
+              1
+              
+                integer
+              
+            
+          
+        
+        
+          PercentofMaxA
+          Percent area
+          Percent of blade tissue present relative to the maximum blade area observed over the entire sampling period (Current blade area / maximum blade area observed ) x 100
+          float
+          
+            
+              
+                dimensionless
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+      
+      1418
+    
+    
+      M. pyrifera blade loss estimated by models
+      Subsurface fronds and suface reaching fronds partial losses estimated using models
+      
+        Kelp_blade_loss_rates_20170901.csv
+        125
+        8ab7698a1d66c738ac5fadd00cd2c229
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/108/2/6f54c756a0b77c4857f41378004e2170
+          
+        
+      
+      
+        
+          Section
+          section of kelp in water column
+          Blade loss rates were calculated separately for three classes of blades, chosen to match the classes of kelp frond material used to calculate foliar standing crop
+          string
+          
+            
+              
+                
+                  
+                    Canopy
+                    The portion of a surface reaching frond that forms a floating canopy at the sea surface
+                  
+                  
+                    Subsurface
+                    A frond that does not extend to the sea surface (typically a 	young, growing frond).
+                  
+                  
+                    Water column
+                    The underwater portion of a frond that extends 	throughout the water column from the holdfast to the sea surface.
+                  
+                
+              
+            
+          
+        
+        
+          Daily loss rate
+          daily loss rate
+          Daily particulate loss rate from senescing blades (i.e., blades that had stopped growing and had attained their maximum area) estimated by simulating decreases in blade area for a population of 500 blades over the course of 10,000 days. 
+          float
+          
+            
+              
+                dimensionless
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+        
+          standard deviation
+          Standard deviation for daily loss rate
+          Uncertainty in estimates of daily loss rate from senescing blades based on the distribution of 10,000 iterations of model simulations
+          float
+          
+            
+              
+                dimensionless
+              
+              1e-06
+              
+                real
+              
+            
+          
+        
+      
+      3
+    
+  
+  
+    
+      
+        
+        
+          a designation asserting the absence of an associated unit
+        
+        
+          SI unit of length
+        
+        
+          one day excluding leap seconds, 86400 seconds
+        
+      
+    
+  

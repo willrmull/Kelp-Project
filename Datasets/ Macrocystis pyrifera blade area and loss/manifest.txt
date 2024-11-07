@@ -1,0 +1,6 @@
+Manifest file for knb-lter-sbc.108.2.zip created on Wed Oct 30 17:39:38 UTC 2024
+Kelp_Blade_Area_20170901.csv (62356 bytes)
+Kelp_blade_loss_rates_20170901.csv (125 bytes)
+knb-lter-sbc.108.2.xml (28777 bytes)
+knb-lter-sbc.108.2.txt (14921 bytes)
+knb-lter-sbc.108.2.report.xml (47974 bytes)

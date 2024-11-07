@@ -1,0 +1,949 @@
+
+  
+    
+      uid=SBC,o=EDI,dc=ecoinformatics,dc=org
+      all
+    
+    
+      uid=lkui,o=EDI,dc=ecoinformatics,dc=org
+      all
+    
+    
+      public
+      read
+    
+  
+  
+    doi:10.6073/pasta/27e795dee803493140d6a7cdc3d23379Kelp biomass and environmental drivers
+    SBC LTER: REEF:  Macrocystis pyrifera biomass and environmental drivers in southern and central California
+    
+      Santa Barbara Coastal LTER
+      			Marine Science Institute University of California
+			Santa Barbara, CA 93106  USA
+      sbclter@msi.ucsb.edu
+    
+    
+      Tom W Bell
+      			Woods Hole Oceanographic Institution 266 Woods Hole Road
+			Woods Hole, MA 02543  US
+       tbell@whoi.edu
+      https://orcid.org/0000-0002-0173-2866
+    
+    
+      Kyle C Cavanaugh
+      			Department of Geography University of California
+			Los Angeles, CA 90095  US
+      kcavanaugh@geog.ucla.edu
+      https://orcid.org/0000-0002-3313-0878
+    
+    
+      Daniel Reuman
+      			Kansas Biological Survey & Center for Ecological Research The University of Kansas
+			Lawrence, KS 66047   Scotland
+      reuman@ku.edu
+      https://orcid.org/0000-0002-1407-8947
+    
+    
+      Max C. N. Castorani
+      			Department of Environmental Sciences University of Virginia
+			Charlottesville, VA 22904-4123  US
+      castorani@virginia.edu
+      https://orcid.org/0000-0002-7372-9359
+    
+    
+      Lawrence Sheppard
+      			Kansas Biological Survey & Center for Ecological Research The University of Kansas
+			Lawrence, KS 66047   Scotland
+      lwsheppard@hotmail.com
+    
+    
+      Jonathan Walter
+      			Department of Environmental Sciences University of Virginia
+			Charlottesville, VA 22904  US
+      jaw3es@virginia.edu
+    
+    2021-09-27
+    English
+    
+      
+        
+    These data describe 1987-2019 time series of giant kelp
+    (Macrocystis pyrifera) biomass and associated
+    environmental variables (wave height, nitrate concentration, climate
+    indices) at quarterly and annual time intervals. Data for spatially
+    resolvable variables (giant kelp biomass, wave height, nitrate
+    concentration) pertain to 361 coastline segments (500 m length) in
+    southern and central California where giant kelp was persistent over
+    the sampling period. Data are contained in 5 tables: 1) quarterly
+    time series of giant kelp biomass, wave height, and nitrate
+    concentrations for 361 coastline segments; 2) quarterly time series
+    of aspatial climate indices (NPGO, MEI, PDO); 3) annual time series
+    of giant kelp biomass, wave height, and nitrate concentrations for
+    361 coastline segments; 4) annual time series of aspatial climate
+    indices (NPGO, MEI, PDO); 5) locations (latitude and longitude of
+    center) of coastline segments. Kelp data are derived from satellite
+    imagery using empirical relationships. Wave data are derived from an
+    empirically validated swell propagation model. Nitrate data are
+    derived from empirical relationships with remotely-sensed sea
+    surface temperature.
+  
+      
+    
+    
+      growth
+      long term ecological research
+      LTER
+      nitrate
+      nutrients
+      Santa Barbara Coastal
+      LTER Controlled Vocabulary v1
+    
+    
+      Ecosystem Processes
+      Kelp Forest
+      Nearshore Ocean
+      Reef
+      significant wave height
+      SBC-LTER Controlled Vocabulary
+    
+    
+      Marine Plants
+      Nitrate
+      Nutrients
+      Global Change Master Directory (GCMD) v6.0.0.0.0
+    
+    
+      Nitrate
+      Nutrients
+      Knowledge Network for Biocomplexity
+    
+    
+      Nutrients
+      Reefs
+      NBII Biocomplexity
+    
+    
+      marine algae
+      Ecological Archives
+    
+    
+      kelp biomass
+      kelp forest
+      LTER
+      Macrocystis pyrifera (Giant kelp)
+      Marine Plants
+      none
+    
+    
+      
+  This data package is released under the Creative Commons License
+  Attribution 4.0 International (CC BY 4.0, see
+  https://creativecommons.org/licenses/by/4.0/). This license states
+  that consumers ("Data Users" herein) may distribute, adapt,
+  reuse, remix, and build upon this work, as long as they give
+  appropriate credit, provide a link to the license, and indicate if
+  changes were made. If redistributed, a Data User may not apply
+  additional restrictions or technological measures that prevent access.
+
+      
+  The Data User has an ethical obligation to cite the data source
+  appropriately in any publication or product that results from its use,
+  and notify the data contact or creator. Communication, collaboration,
+  or co-authorship (as appropriate) with the creators of this data
+  package is encouraged to prevent duplicate research or publication.
+  The Data User is urged to contact the authors of these data if any
+  questions about methodology or results occur. The Data User should
+  realize that these data may be actively used by others for ongoing
+  research and that coordination may be necessary to prevent duplication
+  or inappropriate use. The Data User should realize that
+  misinterpretation may occur if data are used outside of the context of
+  the original study. The Data User should be aware that data are
+  updated periodically and it is the responsibility of the Data User to
+  check for new versions of the data.
+
+      
+  While substantial efforts are made to ensure the accuracy of data and
+  associated documentation, complete accuracy of data sets cannot be
+  guaranteed. This data package (with its components) is made available
+  “as is” and with no warranty of accuracy or fitness for use. The
+  creators of this data package and the repository where these data were
+  obtained shall not be liable for any damages resulting from
+  misinterpretation, use or misuse of the data package or its
+  components.
+
+    
+    
+      
+        http://sbc.lternet.edu/
+      
+    
+    
+      
+        Santa Barbara Channel: Santa Barbara Channel
+        
+          -122.3283155
+          -117.2508669
+          37.11270465
+          32.65688299
+        
+      
+      
+        
+          
+            1987-01-01
+          
+          
+            2019-12-31
+          
+        
+      
+    
+    
+      Information Manager, Santa Barbara Coastal LTER
+      			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+      805 893 2071
+      sbclter@msi.ucsb.edu
+      https://sbclter.msi.ucsb.edu/
+    
+    
+    Environmental Data Initiativeinfo@environmentaldatainitiative.orghttps://environmentaldatainitiative.orgEnvironmental Data Initiative
+      
+        
+          
+            
+    Giant kelp is a globally-distributed species that forms a
+    conspicuous monospecific surface canopy that makes it amenable to
+    remote measurement over large areas and decadal time-spans. We
+    developed 33-year time series (1987 through 2019) of annual mean
+    giant kelp canopy wet biomass (kg) for coastline segments spanning
+    southern and central California, USA by calibrating satellite remote
+    sensing data to field observations. Methods are described in detail
+    in Cavanaugh et al. (2011) and Bell
+    et al. (2020), and briefly summarized here. The
+    fraction of kelp cover in Landsat images (30 m × 30 m pixels) was
+    estimated using a spectral unmixing algorithm with kelp and water
+    endmembers. An empirical relationship was used to convert the
+    satellite-derived kelp cover data to kelp biomass. The data were
+    spatially aggregated to 500 m segments of mainland coastline, and
+    are provided at two temporal resolutions: quarterly (Q1 = Jan – Mar,
+    Q2 = Apr – Jun, Q3 = Jul – Sep, Q4 = Oct – Dec) and annual. Data
+    were annualized by averaging. We selected coastline segments where
+    kelp was absent (zero or no data) for no more than 3 years during
+    the study period to focus on sites where kelp was largely persistent
+    throughout the study period. Of 437 coastline segments for which
+    kelp was present in at least one year, 361 (83%) were selected for
+    inclusion in this dataset.
+  
+            
+    We also obtained data on key environmental drivers of giant kelp
+    dynamics: wave intensity, seawater nitrate concentration, and three
+    climate indices: the North Pacific Gyre Oscillation (NPGO) index,
+    the Pacific Decadal Oscillation (PDO) index, and the Multivariate El
+    Niño Index (MEI). Annual average maximum significant wave heights
+    were obtained from the CDIP MOP v1.1 model
+    (http://cdip.ucsd.edu/MOP_v1.1/) and aggregated to 500 m coastline
+    segments. Briefly, the model combines hourly empirical measurements
+    of significant wave height and direction (from the U.S. National
+    Buoy Data Center, NBDC) with swell propagation and swell hindcast
+    models (Wingeart et al. 2002, Hanson
+    et al. 2009, O’Rielly et
+    al. 2016). Wave data were then hindcasted to 1987
+    following methods described in Bell et al.
+    (2015).
+  
+            
+    We computed surface seawater nitrate concentrations for each 500 m
+    segment using established empirical relationships between nitrate
+    concentration and sea surface temperature (Zimmerman & Kremer
+    1984, Palacios et al. 2013, Snyder et
+    al. 2020). Sea surface temperature estimates were
+    obtained from Advanced Very High Resolution Radiometer satellite
+    imagery (Reynolds et al. 2007, Banzon
+    et al. 2016). Values of the NPGO index were
+    obtained from Di Lorenzo et al. (2008). Values
+    of the PDO index were obtained from
+    https://www.ncdc.noaa.gov/teleconnections/pdo/. Values of the MEI
+    were obtained from https://psl.noaa.gov/enso/mei/. Note that unlike
+    the kelp, wave, and nitrate data, the climate indices do not vary
+    spatially.
+  
+          
+          
+            References:
+            
+    Banzon, V., Smith, T.M., Chin, T.M., Liu, C., & Hankins, W.
+    (2016) A long-term record of blended satellite and in situ sea
+    surface temperature for climate monitoring, modeling and
+    environmental studies. Earth System Science
+    Data 8, 165-176.
+  
+            
+    Bell, T.W., Allen, J.G., Cavanaugh, K.C., & Siegel, D.A. (2020)
+    Three decades of variability in California’s giant kelp forests from
+    the Landsat satellites. Remote Sensing of
+    Environment 238, 110811.
+  
+            
+    Bell, T.W., Cavanaugh, K.C., Reed, D.C., & Siegel, D.A. (2015)
+    Geographical variability in the controls of giant kelp biomass
+    dynamics. Journal of Biogeography 42,
+    2010-2021.
+  
+            
+    Cavanaugh, K.C., Siegel, D.A., Reed, D.C., & Dennison, P.E.
+    (2011) Environmental controls of giant-kelp biomass in the Santa
+    Barbara Channel, California. Marine Ecology Progress
+    Series 429, 1-17.
+  
+            
+    Di Lorenzo, E., Schneider, N., Cobb, K.M., Franks, P.J.S., Chhak,
+    K., Miller, A.J., McWilliams, J.C., Bograd, S.J., Arango, H.,
+    Curchister, C., et al. (2008) North Pacific
+    Gyre Oscillation links ocean climate and ecosystem change.
+    Geophysical Research Letters 35, 8.
+  
+            
+    Hanson, J.L., Tracy, B.A., Tolman, H.L., & Douglas, S.R. (2009)
+    Pacific hindcast performance of three numerical wave models.
+    Journal of Atmospheric and Oceanic Technology
+    26, 1614-1633.
+  
+            
+    O’Rielly, W.C., Olfe, C.B., Thomas, J., Seymour, R.J., & Guza,
+    R.T. (2016) The California coastal wave monitoring and prediction
+    system. Coastal Engineering 116, 118-132.
+  
+            
+    Palacios, D.M., Hazen, E.L., Schroeder, I.D., & Bograd, S.J.
+    (2013) Modeling the temperature-nitrate relationship in the coastal
+    upwelling domain of the California Current. Journal of
+    Geophysical Research: Oceans 118, 3223-3239.
+  
+            
+    Reynolds, R.W., Smith, T.M., Liu, C., Chelton, D.B., Casey, K.S.,
+    & Schlax, M.G. (2007) Daily high-resolution-blended analyses for
+    sea surface temperature. Journal of Climate 20,
+    5473-5496.
+  
+            
+    Snyder, J.N., Bell, T.W., Siegel, D.A., Nidzieko, N.J., &
+    Cavanaugh, K.C. (2020) Sea surface temperature imagery elucidates
+    spatiotemporal nutrient patterns for offshore kelp aquaculture
+    siting in the Southern California bight. Frontiers in
+    Marine Science 7, 22.
+  
+            
+    Wingeart, K.M., Herbers, T.H.C., O’Rielly, W.C., Wittman, P.A.,
+    Jensen, R.E., & Tolman, H.L. (2002) Validation of operational
+    global wave prediction models with spectral buoy data. p. 590-599 in
+    Ocean Wave Measurement and Analysis. American
+    Society of Civil Engineers.
+  
+            
+    Zimmerman, R.C., & Kremer, J.N. (1984) Episodic nutrient supply
+    to a kelp forest ecosystem in Southern California. Journal
+    of Marine Research 42, 591-604.
+  
+          
+        
+      
+    
+    
+      Santa Barbara Coastal Long Term Ecological Research Project
+      
+        Dr. Robert Miller
+        			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+        805 893 6174
+        miller@msi.ucsb.edu
+        Principal Investigator
+      
+      
+        Dr. Dan Reed
+        			Marine Science Institute
+			University of California
+			Santa Barbara, California 93106-6150  United States
+        805 893 8363
+        dan.reed@lifesci.ucsb.edu
+        Co-principal Investigator
+      
+      
+        Dr. Adrian Stier
+        			Department of Ecology, Evolution and Marine Biology
+			University of California
+			Santa Barbara, California 93106-9260  United States
+        805 893 5467
+        adrian.stier@lifesci.ucsb.edu
+        Co-principal Investigator
+      
+      
+        Dr. Gretchen Hoffman
+        			Department of Ecology, Evolution and Marine Biology
+			University of California
+			Santa Barbara, California 93106-9620  United States
+        805 893 6175
+        hofmann@lifesci.ucsb.edu
+        Co-principal Investigator
+      
+      
+        Dr. David Siegel
+        			Institute for Computational Earth System Science
+			University of California
+			Santa Barbara, California 93106-3060  United States
+        805 893 4547
+        davey@icess.ucsb.edu
+        Co-principal Investigator
+      
+      
+        
+          The Santa Barbara Coastal LTER (SBC LTER) is an interdisciplinary research and education program
+established in April 2000 with the goal of developing a predictive understanding of how environmental
+drivers interact with terrestrial and oceanic processes to alter material flows and influence the ecology of
+coastal ecosystems. SBC LTER's principal study domain is the semi-arid coast and nearshore waters of
+the Santa Barbara Channel in southern California, and its diverse and productive marine forests of giant
+kelp (Macrocystis pyrifera) serve as the focal study ecosystem. Analyses of our long-term data have
+identified many of the environmental drivers and ecological processes underlying the production and
+community dynamics of kelp forests. The research proposed to address this question is integrated in a conceptual framework
+that focuses on the causes and ecological consequences of the dynamics of a relatively short-lived
+foundation species in a setting of long-term climate change and human use.
+        
+      
+      
+        
+          NSF Award OCE-9982105, OCE-0620276, OCE-1232779, OCE-1831937
+        
+      
+    
+    
+      Quarterly time series of kelp, nitrate, and waves
+      Kelp biomass, sea water nitrate concetration, and wave height at quarterly time steps
+      
+        kelp_no3_waves_quarterly_long.csv
+        1284656
+        dc121d4daa227e508452f18cbdc71aa3
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              no
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/42e5ca2a0a1b51407aefb1a22cb61866
+          
+        
+      
+      
+        
+          site_id
+          site id
+          Site identifier code
+          integer
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          year
+          year
+          Year of measurement
+          integer
+          
+            
+              YYYY
+              1
+              
+            
+          
+        
+        
+          quarter
+          quarter
+          Quarter of measurement
+          integer
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          kelp
+          kelp biomass
+          Kelp biomass estimated from remotely sensed data and empirical relationships
+          float
+          
+            
+              
+                kilogram
+              
+              0.5
+              
+                real
+              
+            
+          
+        
+        
+          no3
+          seawater nitrate concentation
+          Seawater nitrate concentration estimated from empirical relationships with remotely sensed sea surface temperature
+          float
+          
+            
+              
+                microMolesPerLiter
+              
+              0.01
+              
+                real
+              
+            
+          
+        
+        
+          waves
+          wave height
+          Wave height estimated from swell propagation model
+          float
+          
+            
+              
+                meter
+              
+              0.001
+              
+                real
+              
+            
+          
+        
+      
+      47652
+    
+    
+      Quarterly time series of climate indices
+      Climate indices NPGO, PDO, and MEI at quarterly time steps
+      
+        climind_quarterly.csv
+        3186
+        bb647edf9f23e5486c3b5106fba00c6f
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              no
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/cfc9dd06fab598c27a78709c915ce81d
+          
+        
+      
+      
+        
+          year
+          year
+          Year of measurement
+          integer
+          
+            
+              YYYY
+              1
+              
+            
+          
+        
+        
+          quarter
+          quarter
+          Quarter of measurement
+          integer
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          NPGO
+          NPGO
+          Value of the Northern Pacific Gyre Oscillation index
+          float
+          
+            
+              
+                number
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+        
+          MEI
+          MEI
+          Value of the Multivariate El Nino Index
+          float
+          
+            
+              
+                number
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+        
+          PDO
+          PDO
+          Value of the Pacific Decadal Oscillation index
+          float
+          
+            
+              
+                number
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+      
+      132
+    
+    
+      Annual time series of kelp, nitrate, and waves
+      Kelp biomass, sea water nitrate concetration, and wave height at annual time steps
+      
+        kelp_no3_waves_annual_long.csv
+        362495
+        513c4d8cf63fe906f94e5f2544b35a97
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              no
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/2aa452e37d7a6ce03e8af19311d924dd
+          
+        
+      
+      
+        
+          site_id
+          site id
+          Site identifier code
+          integer
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          year
+          year
+          Year of measurement
+          integer
+          
+            
+              YYYY
+              1
+              
+            
+          
+        
+        
+          kelp
+          kelp biomass
+          Kelp biomass estimated from remotely sensed data and empirical relationships
+          float
+          
+            
+              
+                kilogram
+              
+              0.5
+              
+                real
+              
+            
+          
+        
+        
+          no3
+          seawater nitrate concentation
+          Seawater nitrate concentration estimated from empirical relationships with remotely sensed sea surface temperature
+          float
+          
+            
+              
+                microMolesPerLiter
+              
+              0.01
+              
+                real
+              
+            
+          
+        
+        
+          waves
+          wave height
+          Wave height estimated from swell propagation model
+          float
+          
+            
+              
+                meter
+              
+              0.001
+              
+                real
+              
+            
+          
+        
+      
+      11913
+    
+    
+      Annual time series of climate indices
+      Climate indices NPGO, PDO, and MEI at annual time steps
+      
+        climind_annual.csv
+        890
+        94a83bebef8855dec8c9e38f499d7241
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              no
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/91190eac2b6b35f58353a19dbba676b9
+          
+        
+      
+      
+        
+          year
+          year
+          Year of measurement
+          integer
+          
+            
+              YYYY
+              1
+              
+            
+          
+        
+        
+          NPGO
+          NPGO
+          Value of the Northern Pacific Gyre Oscillation index
+          float
+          
+            
+              
+                number
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+        
+          MEI
+          MEI
+          Value of the Multivariate El Nino Index
+          float
+          
+            
+              
+                number
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+        
+          PDO
+          PDO
+          Value of the Pacific Decadal Oscillation index
+          float
+          
+            
+              
+                number
+              
+              1e-04
+              
+                real
+              
+            
+          
+        
+      
+      33
+    
+    
+      Locations of coastline segments
+      Latitude-longitude coordinates of centers of coastline segments for kelp, nitrate, and wave data
+      
+        locations.csv
+        10656
+        f293679ab72289c03ea2d93bbc142a92
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              no
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-sbc/144/1/37f8a10e2448275459b7055ca6e423cd
+          
+        
+      
+      
+        
+          site_id
+          site id
+          Site identifier code
+          integer
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          lat
+          Latitude
+          Latitude of center of coastline segment 
+          float
+          
+            
+              
+                degree
+              
+              1e-07
+              
+                real
+              
+            
+          
+        
+        
+          lon
+          Longitude
+          Longidute of center of coastline segment
+          float
+          
+            
+              
+                degree
+              
+              1e-07
+              
+                real
+              
+            
+          
+        
+      
+      361
+    
+  
+  
+    
+      
+        
+          360 degrees comprise a unit circle.
+        
+        
+          SI unit of mass
+        
+        
+          SI unit of length
+        
+        
+          µM = µmoles per liter of solution
+        
+        
+          a number
+        
+      
+    
+  
