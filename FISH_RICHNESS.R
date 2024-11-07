@@ -8,7 +8,8 @@ library(readr)
 ###Finding the richness of fish species###
 
 ###Filtering the dataset###
-fish <- read.csv("~/Documents/Fall 2024/Kelp Project/Datasets/Monthly_Fish_All_Years_20240805.csv")
+fish_url <- "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Monthly_Fish_All_Years_20240805.csv"
+fish <- read_csv(url(fish_url))
 fish <- subset(fish, COUNT > 0)
 fish$DATE <- as.Date(fish$DATE, format = "%Y-%m-%d")
 fish$DATE <- format(fish$DATE, "%Y-%m")

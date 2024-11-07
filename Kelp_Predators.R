@@ -16,8 +16,9 @@ pred <- filter(pred, Prey == "Macrocystis pyrifera")
 
 
 ###WIP### ----Predator Fish-----
-fishpred <- read.csv("~/Documents/Fall 2024/Kelp Project/Datasets/Monthly_Fish_All_Years_20240805.csv")
-fishpred <-subset(fishpred, SCIENTIFIC_NAME %in% pred$Prey)
+fish_url <- "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Monthly_Fish_All_Years_20240805.csv"
+fish <- read_csv(url(fish_url))
+fishpred <-subset(fish, SCIENTIFIC_NAME %in% pred$Prey)
 fishpred  <- filter(fishpred , SCIENTIFIC_NAME == "Girella nigricans" | SCIENTIFIC_NAME == "Medialuna californiensis")
 fishpred  <- filter(fishpred , COUNT > 0)
 
