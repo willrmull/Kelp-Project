@@ -23,13 +23,14 @@ fishpred  <- filter(fishpred , SCIENTIFIC_NAME == "Girella nigricans" | SCIENTIF
 fishpred  <- filter(fishpred , COUNT > 0)
 
 ###WIP###----Urhcins-----######
-urchin_url = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Net%20primary%20production%2C%20growth%20and%20standing%20crop%20of%20Macrocystis%20pyrifera/Macrocystis%20pyrifera%20net%20primary%20production%20and%20growth%20with%20SE_20240325.csv"
+urchin_url = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/SBS_Urchin_All_Years_20240823.csv"
 urchins <- read_csv(url(urchin_url))
 ###selecting relevant sites###
 
 urchins  <- filter(urchins, SITE == "AQUE" |  SITE == "MOHK" |  SITE == "ABUR")
 
 ###Accounting for different species####
+
 urchins_filtered <- urchins %>% 
   group_by(DATE, SITE, SCIENTIFIC_NAME) %>%
   summarize(count = sum(COUNT), size = sum(SIZE)) %>%
@@ -37,6 +38,7 @@ urchins_filtered <- urchins %>%
 urchins_filtered$DATE <- as.Date(urchins_filtered$DATE, "%Y-%m-%d")
 
 ###COUNT###
+
 ggplot(urchins_filtered, aes(DATE, count, group = SITE, color = SITE), alpha = 0.3) +
   geom_point() +
   ylab("COUNT") +
@@ -53,6 +55,7 @@ ggplot(urchins_filtered, aes(DATE, size, group = SITE, color = SITE), alpha = 0.
   scale_x_date(date_labels = "%Y")
 
 ####Not acounting for different species###
+
 urchins_filtered <- urchins %>% 
   group_by(DATE, SITE) %>%
   summarize(count = sum(COUNT), size = sum(SIZE)) %>%
