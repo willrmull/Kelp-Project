@@ -10,6 +10,8 @@ library(readr)
 
 pred_url = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/byrnes_foodweb_table1%20(1).csv"
 pred <- read_csv(url(pred_url))
+#Alternative
+pred <- read.csv("~/Documents/Fall 2024/Kelp Project/Kelp-Project/Datasets/byrnes_foodweb_table1 (1).csv")
 
 ###finds predators of giant kelp###
 pred <- filter(pred, Prey == "Macrocystis pyrifera")
@@ -25,6 +27,9 @@ fishpred  <- filter(fishpred , COUNT > 0)
 ###WIP###----Urhcins-----######
 urchin_url = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/SBS_Urchin_All_Years_20240823.csv"
 urchins <- read_csv(url(urchin_url))
+#ALternative
+urchins <- read.csv("~/Documents/Fall 2024/Kelp Project/Kelp-Project/Datasets/SBS_Urchin_All_Years_20240823.csv")
+
 ###selecting relevant sites###
 
 urchins  <- filter(urchins, SITE == "AQUE" |  SITE == "MOHK" |  SITE == "ABUR")

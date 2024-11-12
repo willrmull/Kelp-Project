@@ -8,6 +8,8 @@ library(readr)
 
 waves_url <- "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Macrocystis%20pyrifera%20biomass%20and%20environmental%20drivers/kelp_no3_waves_quarterly_long.csv"
 waves <- pred <- read_csv(url(waves_url))
+#Alternative
+waves <- read.csv("~/Documents/Fall 2024/Kelp Project/Kelp-Project/Datasets/Macrocystis pyrifera biomass and environmental drivers/kelp_no3_waves_quarterly_long.csv", header=TRUE)
 
 waves <- waves %>% mutate(year = paste(year,quarter))
 waves$year <- as.yearqtr(format(waves$year), "%Y%q")
