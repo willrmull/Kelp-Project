@@ -50,14 +50,14 @@ ggplot(npp_filtered, aes(Year, dry.carbon, group = Site, color = Site), alpha = 
 
 npp_filtered$NPPtoGrowth <- npp_filtered$NPP_dry/npp_filtered$Growth_rate_dry
 ggplot(npp_filtered , aes(Year, NPPtoGrowth, group = Site, color = Site), alpha = 0.3) +
-  geom_point() + geom_line()
+  geom_point() 
 ggplot(npp_filtered , aes(Growth_rate_dry, NPP_dry, group = Site, color = Site), alpha = 0.3) +
-  geom_point() + geom_line()
+  geom_point() 
 
 #Growth and nutrients
 
 ggplot(npp_filtered, aes(Growth_rate_dry, Growth_rate_carbon, group = Site, color = Site), alpha = 0.3) +
-  geom_point() + geom_line()
+  geom_point() 
 ggplot(npp_filtered , aes(Growth_rate_dry, Growth_rate_nitrogen, group = Site, color = Site), alpha = 0.3) +
-  geom_point() + geom_line()
+  geom_point() 
 
