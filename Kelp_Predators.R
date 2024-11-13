@@ -84,9 +84,10 @@ ggplot(urchins_filtered, aes(DATE, size, group = SITE, color = SITE), alpha = 0.
   scale_x_date(date_labels = "%Y")
 
 ######################OTHER SPECIES###########################
+filter(urchin_pred, Pred_taxon == "Urchins")
 
-other_species_url <- filter(urchin_pred, Pred_taxon == "Urchins")
-other_species = "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Annual_All_Species_Biomass_at_transect_20240823.csv"
+other_species_url <- "https://raw.githubusercontent.com/willrmull/Kelp-Project/refs/heads/main/Datasets/Annual_All_Species_Biomass_at_transect_20240823.csv"
+other_species = read_csv(url(other_species_url))
 
 list <- c(pred$Predator)
 other_species <- filter(other_species, SCIENTIFIC_NAME %in% list)
